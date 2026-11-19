@@ -9,7 +9,15 @@
     "createdAt": "2026-11-19T17:31:10.211Z",
     "expiresAt": "2026-12-19T17:31:10.211Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795109546939",
+        "authorId": "guest_68d4e0ca-2265-46c1-af65-cf33c7f2aed0",
+        "authorName": "TuffEpicVerity67911",
+        "text": "what is this brian rot",
+        "createdAt": "2026-11-19T17:32:26.939Z"
+      }
+    ]
   },
   {
     "id": "post_45e73ba4-e0f1-4da4-8aeb-624c480ed2f4",

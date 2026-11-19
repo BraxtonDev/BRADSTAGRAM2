@@ -1329,42 +1329,6 @@
     "comments": []
   },
   {
-    "id": "post_10135019-c13d-423f-a7d4-61cbe264e427",
-    "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-    "authorName": "BradGPT Official",
-    "caption": "",
-    "imageUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/post_1795102741463_vjdd954.jpg",
-    "videoUrl": "",
-    "createdAt": "2026-11-19T15:39:02.913Z",
-    "expiresAt": "2026-12-19T15:39:02.913Z",
-    "likes": [
-      "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
-    ],
-    "comments": [
-      {
-        "id": "comment_1795102811463",
-        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-        "authorName": "BradGPT Official",
-        "text": "😂😈💔🥀🤫",
-        "createdAt": "2026-11-19T15:40:11.463Z"
-      },
-      {
-        "id": "comment_1795105574692",
-        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
-        "authorName": "olivergptoffich",
-        "text": "so sad",
-        "createdAt": "2026-11-19T16:26:14.692Z"
-      },
-      {
-        "id": "comment_1795105698620",
-        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-        "authorName": "BradGPT Official",
-        "text": "😈💦🚨🤫💔",
-        "createdAt": "2026-11-19T16:28:18.620Z"
-      }
-    ]
-  },
-  {
     "id": "post_23fa90cb-5f34-42c0-9908-850c2417f801",
     "authorId": "guest_63000c51-b150-454d-96ce-f0eac6b012c8",
     "authorName": "nicely",

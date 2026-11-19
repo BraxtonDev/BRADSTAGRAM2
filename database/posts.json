@@ -76,7 +76,15 @@
     "createdAt": "2026-11-19T20:34:34.252Z",
     "expiresAt": "2026-12-19T20:34:34.252Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795120751523",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "frfr",
+        "createdAt": "2026-11-19T20:39:11.523Z"
+      }
+    ]
   },
   {
     "id": "post_75d0b5d1-b232-4759-8873-d794c061c943",

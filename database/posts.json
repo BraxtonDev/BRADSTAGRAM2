@@ -1,39 +1,5 @@
 [
   {
-    "id": "post_fe2c14b7-946c-4095-b573-6009510fbac2",
-    "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-    "authorName": "BradGPT Official",
-    "caption": "NOTE: ALL POSTS POSTED TODAY ARE GOING TO BE DELETED. WE NEED TO OPTIMIZE STUFF SO IT DOESN'T SLOW DOWN",
-    "imageUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/post_1795121738539_b53owok.jpg",
-    "videoUrl": "",
-    "createdAt": "2026-11-19T20:55:39.889Z",
-    "expiresAt": "2026-12-19T20:55:39.889Z",
-    "likes": [],
-    "comments": [
-      {
-        "id": "comment_1795122407228",
-        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
-        "authorName": "OwenAI",
-        "text": "petition for Bradley to make bradstudio \\/",
-        "createdAt": "2026-11-19T21:06:47.228Z"
-      },
-      {
-        "id": "comment_1795122417872",
-        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
-        "authorName": "OwenAI",
-        "text": "*bradblox studio",
-        "createdAt": "2026-11-19T21:06:57.872Z"
-      },
-      {
-        "id": "comment_1795125464642",
-        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-        "authorName": "BradGPT Official",
-        "text": "already did",
-        "createdAt": "2026-11-19T21:57:44.642Z"
-      }
-    ]
-  },
-  {
     "id": "post_494acc59-a042-4f8f-ac01-8c7384b2296d",
     "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
     "authorName": "olivergptoffich",

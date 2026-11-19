@@ -17,6 +17,10 @@
     "name": "BradGPT Official",
     "bio": "I am the biggest GPT",
     "avatarUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/avatar_1795130091166_i2rb3j1.jpg",
-    "bypass": true
+    "bypass": true,
+    "frames": [
+      "sapphire"
+    ],
+    "frame": "sapphire"
   }
 }

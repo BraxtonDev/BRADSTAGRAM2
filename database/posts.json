@@ -11,7 +11,15 @@
     "likes": [
       "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795119087076",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "eh",
+        "createdAt": "2026-11-19T20:11:27.076Z"
+      }
+    ]
   },
   {
     "id": "post_1e1c22d1-e138-4d96-9406-ed56ea0a1f41",

@@ -21,7 +21,15 @@
     "createdAt": "2026-11-19T17:30:10.296Z",
     "expiresAt": "2026-12-19T17:30:10.296Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795109529901",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "Fuh nuh",
+        "createdAt": "2026-11-19T17:32:09.901Z"
+      }
+    ]
   },
   {
     "id": "post_ebc865f8-8aee-4728-8367-746dd32b844d",

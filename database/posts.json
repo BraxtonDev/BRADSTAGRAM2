@@ -50,7 +50,15 @@
     "createdAt": "2026-11-19T17:17:34.060Z",
     "expiresAt": "2026-12-19T17:17:34.060Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795108960943",
+        "authorId": "guest_68d4e0ca-2265-46c1-af65-cf33c7f2aed0",
+        "authorName": "TuffEpicVerity67911",
+        "text": "caseho",
+        "createdAt": "2026-11-19T17:22:40.943Z"
+      }
+    ]
   },
   {
     "id": "post_9cc5a238-6ffd-4293-a06f-d90673e42536",

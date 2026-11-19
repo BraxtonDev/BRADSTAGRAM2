@@ -16,6 +16,7 @@
   "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4": {
     "name": "BradGPT Official",
     "bio": "I am the biggest GPT",
-    "avatarUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/avatar_1795130091166_i2rb3j1.jpg"
+    "avatarUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/avatar_1795130091166_i2rb3j1.jpg",
+    "bypass": true
   }
 }

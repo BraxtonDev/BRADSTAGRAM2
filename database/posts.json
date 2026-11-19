@@ -99,6 +99,13 @@
         "authorName": "caldruki",
         "text": "I hate mondays",
         "createdAt": "2026-11-19T20:14:46.935Z"
+      },
+      {
+        "id": "comment_1795119475915",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "#grrrrthursdays",
+        "createdAt": "2026-11-19T20:17:55.915Z"
       }
     ]
   },

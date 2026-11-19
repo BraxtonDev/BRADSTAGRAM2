@@ -57,7 +57,15 @@
     "createdAt": "2026-11-19T20:33:25.701Z",
     "expiresAt": "2026-12-19T20:33:25.701Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795120678241",
+        "authorId": "guest_6c7b087b-9446-4cd2-900e-1f672618bc1e",
+        "authorName": "caldruki",
+        "text": "igb✌",
+        "createdAt": "2026-11-19T20:37:58.241Z"
+      }
+    ]
   },
   {
     "id": "post_237af9eb-126f-42fb-857b-b73043807d0a",

@@ -1,4 +1,46 @@
 {
-  "codes": [],
-  "used": []
+  "codes": [
+    {
+      "code": "KD47-73MJ",
+      "color": "ruby",
+      "createdAt": "2026-11-19T22:37:38.228Z"
+    },
+    {
+      "code": "YXD7-ZWBV",
+      "color": "gold",
+      "createdAt": "2026-11-19T22:37:38.228Z"
+    },
+    {
+      "code": "ZXXK-8PMN",
+      "color": "emerald",
+      "createdAt": "2026-11-19T22:37:38.228Z"
+    },
+    {
+      "code": "EZ7C-XU77",
+      "color": "sapphire",
+      "createdAt": "2026-11-19T22:37:38.228Z"
+    },
+    {
+      "code": "KRPM-44YZ",
+      "color": "amethyst",
+      "createdAt": "2026-11-19T22:37:38.228Z"
+    },
+    {
+      "code": "ZF4X-BVBY",
+      "color": "rose",
+      "createdAt": "2026-11-19T22:37:38.228Z"
+    },
+    {
+      "code": "TQFD-ANGN",
+      "color": "teal",
+      "createdAt": "2026-11-19T22:37:38.228Z"
+    },
+    {
+      "code": "U7L9-T8YV",
+      "color": "sunset",
+      "createdAt": "2026-11-19T22:37:38.228Z"
+    }
+  ],
+  "used": [],
+  "updatedAt": "2026-11-19T22:37:38.229Z"
 }

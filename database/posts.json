@@ -131,6 +131,13 @@
         "authorName": "OwenAI",
         "text": "hello there Oliver gpt",
         "createdAt": "2026-11-19T19:24:32.610Z"
+      },
+      {
+        "id": "comment_1795119386814",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "AI con here",
+        "createdAt": "2026-11-19T20:16:26.814Z"
       }
     ]
   },

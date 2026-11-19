@@ -6,7 +6,9 @@
     "caption": "Bradstagram... HELLO ARE YOU THERE",
     "imageUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/post_1795056997739_wexurkt.jpg",
     "createdAt": "2026-11-19T02:56:38.988Z",
-    "likes": [],
+    "likes": [
+      "guest_b284b8dd-e898-4e12-974e-7a836427f039"
+    ],
     "comments": []
   }
 ]

@@ -11,7 +11,15 @@
     "likes": [
       "guest_b284b8dd-e898-4e12-974e-7a836427f039"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "comment_addf3a02-65bd-4e0e-a2b4-b31d92a63e79",
+        "authorId": "guest_b284b8dd-e898-4e12-974e-7a836427f039",
+        "authorName": "uncle ekber (NICHE)",
+        "text": "i js grabbed a template",
+        "createdAt": "2026-11-19T23:09:12.236Z"
+      }
+    ],
     "keepUntil": "2026-12-19T22:46:45.817Z"
   }
 ]

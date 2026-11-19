@@ -1444,42 +1444,6 @@
     ]
   },
   {
-    "id": "post_b7bcb59e-b7d8-40d8-a462-98a4cf73a8fc",
-    "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-    "authorName": "BradGPT Official",
-    "caption": "New item on Bradblox!",
-    "imageUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/post_1795095684225_6vrsv9m.jpg",
-    "videoUrl": "",
-    "createdAt": "2026-11-19T13:41:25.785Z",
-    "expiresAt": "2026-12-19T13:41:25.785Z",
-    "likes": [
-      "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
-    ],
-    "comments": [
-      {
-        "id": "comment_1795106211644",
-        "authorId": "guest_df826597-2062-4fdd-9b75-19ed6d327263",
-        "authorName": "Owen the best",
-        "text": "IS it bradley",
-        "createdAt": "2026-11-19T16:36:51.645Z"
-      },
-      {
-        "id": "comment_1795109287104",
-        "authorId": "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665",
-        "authorName": "One peice Ohio verity",
-        "text": "looks exactly like bradley",
-        "createdAt": "2026-11-19T17:28:07.104Z"
-      },
-      {
-        "id": "comment_1795109289784",
-        "authorId": "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665",
-        "authorName": "One peice Ohio verity",
-        "text": "looks exactly like bradley",
-        "createdAt": "2026-11-19T17:28:09.784Z"
-      }
-    ]
-  },
-  {
     "id": "post_2a98b84a-49dc-4ba9-a1df-d2ef9d00bb37",
     "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
     "authorName": "OfficialEvilLucas",

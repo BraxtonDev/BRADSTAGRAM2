@@ -120,7 +120,15 @@
     "createdAt": "2026-11-19T20:15:49.043Z",
     "expiresAt": "2026-12-19T20:15:49.043Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795120313189",
+        "authorId": "guest_6c7b087b-9446-4cd2-900e-1f672618bc1e",
+        "authorName": "caldruki",
+        "text": "get a job",
+        "createdAt": "2026-11-19T20:31:53.189Z"
+      }
+    ]
   },
   {
     "id": "post_902b978a-cc77-45ea-8cc5-57b49b36b87f",

@@ -2,7 +2,7 @@
   {
     "id": "post_e403b31d-d90b-4575-8d28-44e69fea3f21",
     "authorId": "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665",
-    "authorName": "Guest",
+    "authorName": "verity",
     "caption": "holly tuff",
     "imageUrl": "",
     "videoUrl": "",
@@ -88,14 +88,14 @@
       {
         "id": "comment_1795108847750",
         "authorId": "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665",
-        "authorName": "Guest",
+        "authorName": "verity",
         "text": "are you the real caldruki",
         "createdAt": "2026-11-19T17:20:47.750Z"
       },
       {
         "id": "comment_1795108855193",
         "authorId": "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665",
-        "authorName": "Guest",
+        "authorName": "verity",
         "text": "are you the real caldruki",
         "createdAt": "2026-11-19T17:20:55.193Z"
       },

@@ -23,7 +23,15 @@
     "likes": [
       "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795106251975",
+        "authorId": "guest_6c7b087b-9446-4cd2-900e-1f672618bc1e",
+        "authorName": "JoyBGamer",
+        "text": "calv",
+        "createdAt": "2026-11-19T16:37:31.975Z"
+      }
+    ]
   },
   {
     "id": "post_31846db0-e7c3-4a42-809f-58d9b8277983",

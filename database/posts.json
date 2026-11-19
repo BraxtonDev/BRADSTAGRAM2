@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "post_d89ac3b5-1e33-49f5-9376-cf968800c845",
+    "authorId": "guest_46135b69-f6a9-42e3-b249-303724dadd99",
+    "authorName": "olivergptoffich",
+    "caption": "hi guys im making olivetok rn",
+    "imageUrl": "",
+    "videoUrl": "",
+    "createdAt": "2026-11-19T22:44:29.144Z",
+    "expiresAt": "2026-12-04T22:44:29.144Z",
+    "likes": [],
+    "comments": []
+  }
+]

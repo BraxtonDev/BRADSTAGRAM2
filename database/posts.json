@@ -9,7 +9,15 @@
     "createdAt": "2026-11-19T18:07:44.091Z",
     "expiresAt": "2026-12-19T18:07:44.091Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795116272610",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "hello there Oliver gpt",
+        "createdAt": "2026-11-19T19:24:32.610Z"
+      }
+    ]
   },
   {
     "id": "post_6fc7ebbb-e3e8-4e05-aa44-df052d470910",

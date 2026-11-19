@@ -45,7 +45,15 @@
     "createdAt": "2026-11-19T03:19:39.230Z",
     "expiresAt": "2026-12-19T03:19:39.230Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795062241634",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "EvilArmando",
+        "text": "Armando was scarier",
+        "createdAt": "2026-11-19T04:24:01.634Z"
+      }
+    ]
   },
   {
     "id": "post_b904bf80-04d6-4e31-88a1-945aaa835673",

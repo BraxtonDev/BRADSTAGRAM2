@@ -57,7 +57,15 @@
     "likes": [
       "guest_6c7b087b-9446-4cd2-900e-1f672618bc1e"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795106387249",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "penis",
+        "createdAt": "2026-11-19T16:39:47.249Z"
+      }
+    ]
   },
   {
     "id": "post_912af8f1-451c-40b2-96fd-6da585ecc74b",

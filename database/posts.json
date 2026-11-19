@@ -733,6 +733,14 @@
       "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
       "guest_df826597-2062-4fdd-9b75-19ed6d327263"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795108954871",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "first post yay",
+        "createdAt": "2026-11-19T17:22:34.871Z"
+      }
+    ]
   }
 ]

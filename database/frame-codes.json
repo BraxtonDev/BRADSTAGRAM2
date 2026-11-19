@@ -6,9 +6,9 @@
       "createdAt": "2026-11-19T22:37:38.228Z"
     },
     {
-      "code": "YXD7-ZWBV",
+      "code": "WX62-RWG5",
       "color": "gold",
-      "createdAt": "2026-11-19T22:37:38.228Z"
+      "createdAt": "2026-11-19T22:52:54.715Z"
     },
     {
       "code": "ZXXK-8PMN",
@@ -41,6 +41,13 @@
       "createdAt": "2026-11-19T22:37:38.228Z"
     }
   ],
-  "used": [],
-  "updatedAt": "2026-11-19T22:37:38.229Z"
+  "used": [
+    {
+      "code": "YXD7-ZWBV",
+      "color": "gold",
+      "by": "guest_b284b8dd-e898-4e12-974e-7a836427f039",
+      "at": "2026-11-19T22:52:54.715Z"
+    }
+  ],
+  "updatedAt": "2026-11-19T22:52:54.715Z"
 }

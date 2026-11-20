@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T20:54:25.323Z",
     "expiresAt": "2026-12-05T20:54:25.323Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_dbd7dc94-ccc1-4c80-b628-ce529de441fd",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "why",
+        "createdAt": "2026-11-20T20:54:45.881Z"
+      }
+    ]
   },
   {
     "id": "post_dbefd4dd-2f5c-4ee8-ab6d-96a4bbe58bf5",

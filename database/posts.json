@@ -330,7 +330,15 @@
     "likes": [
       "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795192715787",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "no",
+        "createdAt": "2026-11-20T16:38:35.787Z"
+      }
+    ]
   },
   {
     "id": "post_b0f97412-6209-4c30-b491-cc1f4b24948d",

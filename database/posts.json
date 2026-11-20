@@ -11,7 +11,15 @@
     "likes": [
       "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795189582913",
+        "authorId": "guest_68d4e0ca-2265-46c1-af65-cf33c7f2aed0",
+        "authorName": "TuffEpicVerity67911",
+        "text": "baddie",
+        "createdAt": "2026-11-20T15:46:22.913Z"
+      }
+    ]
   },
   {
     "id": "post_7a90f816-9efa-4f6c-995d-5df2003f0022",

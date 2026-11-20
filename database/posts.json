@@ -96,6 +96,13 @@
         "authorName": "PCdemon_X",
         "text": "doggy :]",
         "createdAt": "2026-11-20T20:38:03.738Z"
+      },
+      {
+        "id": "comment_ca8922aa-2cad-469c-9a93-e6394fdb601d",
+        "authorId": "guest_558f3b9b-488f-42ac-9aa5-09b56f9c49ab",
+        "authorName": "JoseHATESBOOKS",
+        "text": "yummy dog",
+        "createdAt": "2026-11-20T20:42:33.141Z"
       }
     ]
   },

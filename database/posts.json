@@ -55,6 +55,13 @@
         "authorName": "caldruki",
         "text": "and y'all dont",
         "createdAt": "2026-11-20T21:09:54.260Z"
+      },
+      {
+        "id": "comment_ee3f5b81-70cb-45a4-ac76-66824702a361",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "not anymore",
+        "createdAt": "2026-11-20T21:11:02.519Z"
       }
     ]
   },

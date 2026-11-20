@@ -113,6 +113,13 @@
         "authorName": "OfficialEvilLucas",
         "text": "Don't be ignorant. Use BradGPT.",
         "createdAt": "2026-11-20T16:35:01.477Z"
+      },
+      {
+        "id": "comment_fc24274b-f98f-4474-891b-1135c74f5af5",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "AI meetup here",
+        "createdAt": "2026-11-20T16:35:40.139Z"
       }
     ]
   },

@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T20:32:14.062Z",
     "expiresAt": "2026-12-05T20:32:14.062Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795206784897",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "george i love you",
+        "createdAt": "2026-11-20T20:33:04.897Z"
+      }
+    ]
   },
   {
     "id": "post_576405da-a91c-4e7a-84a6-d8d511296bd7",

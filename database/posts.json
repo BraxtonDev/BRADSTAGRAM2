@@ -21,7 +21,15 @@
     "createdAt": "2026-11-20T16:33:23.135Z",
     "expiresAt": "2026-12-05T16:33:23.135Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_4ba387a0-9f5d-4640-a74d-9aca65a6c326",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "Main character syndrome Aiden the PC_demon",
+        "createdAt": "2026-11-20T16:34:02.481Z"
+      }
+    ]
   },
   {
     "id": "post_0e5b9e6d-0943-4dc5-98c5-629502a85214",

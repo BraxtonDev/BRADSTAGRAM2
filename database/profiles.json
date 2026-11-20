@@ -89,5 +89,10 @@
   "guest_b4ccbf06-b50c-4056-bb67-21e2d67de7e5": {
     "name": "The pancake",
     "bio": ""
+  },
+  "guest_88355f7a-df5d-4560-8ea1-3057fc30eee9": {
+    "name": "TheBlender",
+    "bio": "Don'tBlend",
+    "avatarUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/avatar_1795199890804_n8xeyo7.jpg"
   }
 }

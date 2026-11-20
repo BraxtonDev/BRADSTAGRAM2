@@ -85,7 +85,15 @@
     "createdAt": "2026-11-20T16:33:50.886Z",
     "expiresAt": "2026-12-05T16:33:50.886Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795192651657",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "gay",
+        "createdAt": "2026-11-20T16:37:31.657Z"
+      }
+    ]
   },
   {
     "id": "post_d9f4c6d8-f27b-48e7-bd7a-824585ffd4af",

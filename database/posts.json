@@ -23,7 +23,15 @@
     "likes": [
       "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_6b89e222-a0ec-4f7d-9998-e8f509787c9d",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "wait I thought that account was xavier",
+        "createdAt": "2026-11-20T18:00:35.723Z"
+      }
+    ]
   },
   {
     "id": "post_5b133a7b-e48e-468d-b1a9-5891bd9bdac8",

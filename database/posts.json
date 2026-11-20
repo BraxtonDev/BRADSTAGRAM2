@@ -1,5 +1,17 @@
 [
   {
+    "id": "post_f6944ef3-cb28-4fec-8b85-73826953f0cd",
+    "authorId": "guest_b284b8dd-e898-4e12-974e-7a836427f039",
+    "authorName": "uncle ekber (NICHE)",
+    "caption": "another template POST POST POST",
+    "imageUrl": "",
+    "videoUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/video_1795137926609_ostyz7d.webm",
+    "createdAt": "2026-11-20T01:25:29.379Z",
+    "expiresAt": "2026-12-05T01:25:29.379Z",
+    "likes": [],
+    "comments": []
+  },
+  {
     "id": "post_38dbdabf-2720-40ac-ad68-87aba29df11b",
     "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
     "authorName": "OfficialEvilLucas",

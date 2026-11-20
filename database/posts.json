@@ -11,7 +11,15 @@
     "likes": [
       "guest_d2913c01-874b-435d-b13a-eadee45064bd"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795203382274",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "who tf",
+        "createdAt": "2026-11-20T19:36:22.274Z"
+      }
+    ]
   },
   {
     "id": "post_78c3e6f8-cab9-43d1-a23b-4c52f331482d",

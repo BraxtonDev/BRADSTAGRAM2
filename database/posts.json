@@ -11,7 +11,15 @@
     "likes": [
       "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_e6cb3d96-2f5d-4af4-8897-c2a32ed14e70",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "this is ELLIS: I don't think its Ellis...uhh uhh uhh umm uhh what do you call a 9/11!!!!",
+        "createdAt": "2026-11-20T20:35:34.989Z"
+      }
+    ]
   },
   {
     "id": "post_3a4e6a1e-9c00-4e49-bbff-8b2f4ffae34f",

@@ -66,7 +66,15 @@
       "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
       "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_f65d09db-2ec1-4d8f-b814-d72f590143db",
+        "authorId": "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
+        "authorName": "Amelia.6.9",
+        "text": "Wait what actually happened?",
+        "createdAt": "2026-11-20T21:21:17.772Z"
+      }
+    ]
   },
   {
     "id": "post_5bb78d5c-7915-4a32-8fcf-cd0d9646c2fe",

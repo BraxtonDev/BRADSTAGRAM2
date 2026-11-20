@@ -187,6 +187,13 @@
         "authorName": "OfficialEvilLucas",
         "text": "YES!",
         "createdAt": "2026-11-20T16:04:22.871Z"
+      },
+      {
+        "id": "comment_fb31bbda-1214-4c25-abf1-7ab9f4677c14",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "TUFF TUFF TUFF",
+        "createdAt": "2026-11-20T16:34:59.446Z"
       }
     ]
   },

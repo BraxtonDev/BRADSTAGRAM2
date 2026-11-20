@@ -452,6 +452,13 @@
         "authorName": "JoseHATESBOOKS",
         "text": "what",
         "createdAt": "2026-11-20T20:42:23.471Z"
+      },
+      {
+        "id": "comment_bf6bbd64-1b40-409b-a633-d45dc98d403e",
+        "authorId": "guest_71f86e26-6637-43c6-9f3d-75c015dff81a",
+        "authorName": "The plug",
+        "text": "ew",
+        "createdAt": "2026-11-20T21:08:17.080Z"
       }
     ]
   },

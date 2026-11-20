@@ -25,7 +25,15 @@
     "likes": [
       "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_263218ca-d4b0-4b62-8061-b2084377f839",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "pizza sim???",
+        "createdAt": "2026-11-20T20:31:57.108Z"
+      }
+    ]
   },
   {
     "id": "post_3f3e5f14-e0f8-4c4d-be72-1995b20a5368",

@@ -25,7 +25,15 @@
     "likes": [
       "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795209305930",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "I luv u too",
+        "createdAt": "2026-11-20T21:15:05.930Z"
+      }
+    ]
   },
   {
     "id": "post_8be182fe-b588-40a8-9566-aa83d724c56a",

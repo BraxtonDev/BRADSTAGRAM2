@@ -26,7 +26,11 @@
   "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c": {
     "name": "OfficialEvilLucas",
     "bio": "do not listen to the allegations\nlisten to me instead",
-    "avatarUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/avatar_1795133897526_m8lsoq9.jpg"
+    "avatarUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/avatar_1795133897526_m8lsoq9.jpg",
+    "frames": [
+      "gold"
+    ],
+    "frame": "gold"
   },
   "guest_2aa61795-a206-44b9-a96d-65c1a3df3c4d": {
     "name": "PrinceofGlobia",

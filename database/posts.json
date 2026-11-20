@@ -109,6 +109,13 @@
         "authorName": "Guest",
         "text": "ig",
         "createdAt": "2026-11-20T15:35:29.663Z"
+      },
+      {
+        "id": "comment_f3fbd944-b8cd-45ab-bade-9e3bd74c0092",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "WHO is guest yk you can change ur user",
+        "createdAt": "2026-11-20T15:36:54.984Z"
       }
     ]
   },

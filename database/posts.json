@@ -21,7 +21,15 @@
     "createdAt": "2026-11-20T21:25:57.499Z",
     "expiresAt": "2026-12-05T21:25:57.499Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_03a34e29-f379-4da8-adb5-e31dfa2d46c2",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "Why aren't you playing BRADlatro???",
+        "createdAt": "2026-11-20T21:26:47.901Z"
+      }
+    ]
   },
   {
     "id": "post_85f579d8-d303-423f-afd2-669039d6f774",

@@ -1,17 +1,5 @@
 [
   {
-    "id": "post_8e4b13c2-887d-4fe2-9623-49f3d7435965",
-    "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
-    "authorName": "OwenAI",
-    "caption": "who is in ela right now 👇",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-20T19:48:05.912Z",
-    "expiresAt": "2026-12-05T19:48:05.912Z",
-    "likes": [],
-    "comments": []
-  },
-  {
     "id": "post_239f0f1f-6e81-48db-a8d0-f6246c17bb16",
     "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
     "authorName": "OwenAI",

@@ -16,6 +16,13 @@
         "authorName": "olivergptoffich",
         "text": "george i love you",
         "createdAt": "2026-11-20T20:33:04.897Z"
+      },
+      {
+        "id": "comment_2c348b87-b296-4e27-aa02-00acf524f98b",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "WHO are you",
+        "createdAt": "2026-11-20T20:34:10.451Z"
       }
     ]
   },

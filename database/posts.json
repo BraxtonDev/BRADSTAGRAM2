@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T16:25:20.861Z",
     "expiresAt": "2026-12-05T16:25:20.861Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795192267416",
+        "authorId": "guest_fcf1ac20-12bd-463e-84ed-e8d152d0901a",
+        "authorName": "ThebigPablo",
+        "text": "no",
+        "createdAt": "2026-11-20T16:31:07.416Z"
+      }
+    ]
   },
   {
     "id": "post_0e5b9e6d-0943-4dc5-98c5-629502a85214",

@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T21:16:55.179Z",
     "expiresAt": "2026-12-05T21:16:55.179Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1ff9247c-4bf1-4f2c-a3dd-23ef1d607afb",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "well well well trying to meet up with minors",
+        "createdAt": "2026-11-20T21:17:57.722Z"
+      }
+    ]
   },
   {
     "id": "post_feac2836-4482-4c06-9ae2-dcbfec55905e",

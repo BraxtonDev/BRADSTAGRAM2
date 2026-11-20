@@ -24,33 +24,6 @@
     "comments": []
   },
   {
-    "id": "post_12641af4-c718-4a52-9053-e2c797b816da",
-    "authorId": "guest_a4d0664c-3efe-4707-ad69-5ebfbc895d44",
-    "authorName": "james",
-    "caption": "can I say nigga",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-20T21:08:04.168Z",
-    "expiresAt": "2026-12-05T21:08:04.168Z",
-    "likes": [],
-    "comments": [
-      {
-        "id": "comment_b91717bb-74f6-4aa6-a0ce-a1d2400a3c61",
-        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
-        "authorName": "OwenAI",
-        "text": "WHOAH BRADLEY BAN THIS AND ADD A FILTER",
-        "createdAt": "2026-11-20T21:08:37.159Z"
-      },
-      {
-        "id": "comment_529c3c37-6e4e-4533-95d9-0cb8cef7b2a0",
-        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-        "authorName": "BradGPT Official",
-        "text": "no 💔",
-        "createdAt": "2026-11-20T21:08:40.000Z"
-      }
-    ]
-  },
-  {
     "id": "post_3c05cea7-3757-4752-88b0-c7af84878f0d",
     "authorId": "guest_71f86e26-6637-43c6-9f3d-75c015dff81a",
     "authorName": "The plug",

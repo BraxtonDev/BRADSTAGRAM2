@@ -155,6 +155,13 @@
         "authorName": "One peice Ohio verity",
         "text": "Wtf is this",
         "createdAt": "2026-11-20T18:58:52.685Z"
+      },
+      {
+        "id": "comment_2dd152a4-6814-4114-9113-78e123333d61",
+        "authorId": "guest_d2913c01-874b-435d-b13a-eadee45064bd",
+        "authorName": "Joseph Stallin",
+        "text": "With communism this will never happen",
+        "createdAt": "2026-11-20T19:32:47.994Z"
       }
     ]
   },

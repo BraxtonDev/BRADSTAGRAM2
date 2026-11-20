@@ -38,6 +38,13 @@
         "authorName": "foot licker",
         "text": "shhhhhhhhhhhh",
         "createdAt": "2026-11-20T20:17:13.901Z"
+      },
+      {
+        "id": "comment_3d8517db-126d-4c13-bf16-94d4d34b2f02",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "I am tuff actually 🤓",
+        "createdAt": "2026-11-20T20:25:33.553Z"
       }
     ]
   },

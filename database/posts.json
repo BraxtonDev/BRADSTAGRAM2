@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T20:38:27.359Z",
     "expiresAt": "2026-12-05T20:38:27.359Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_a0c320de-0b98-4909-924b-770066bdec52",
+        "authorId": "guest_558f3b9b-488f-42ac-9aa5-09b56f9c49ab",
+        "authorName": "JoseHATESBOOKS",
+        "text": "what",
+        "createdAt": "2026-11-20T20:42:06.176Z"
+      }
+    ]
   },
   {
     "id": "post_8adcb9c0-1bdc-46bc-8fef-dd4b094c57ad",

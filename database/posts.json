@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T20:47:00.999Z",
     "expiresAt": "2026-12-05T20:47:00.999Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_a78edf4b-3b9a-4e97-bd0e-b753ae9991e8",
+        "authorId": "guest_b725c213-ac0f-42ef-a6d1-cd31727e7678",
+        "authorName": "IWalkDownSeniorCitizens",
+        "text": "Fr",
+        "createdAt": "2026-11-20T20:47:38.168Z"
+      }
+    ]
   },
   {
     "id": "post_43acf080-893c-4ab4-b26b-c7dcc810b565",

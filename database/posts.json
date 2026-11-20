@@ -42,6 +42,13 @@
         "authorName": "caldruki",
         "text": "crazy name",
         "createdAt": "2026-11-20T21:03:09.590Z"
+      },
+      {
+        "id": "comment_3b1140e0-0a86-428c-a55c-13e0513d5a67",
+        "authorId": "guest_6c7b087b-9446-4cd2-900e-1f672618bc1e",
+        "authorName": "caldruki",
+        "text": "lol",
+        "createdAt": "2026-11-20T21:03:14.254Z"
       }
     ]
   },

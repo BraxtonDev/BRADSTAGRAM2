@@ -545,6 +545,13 @@
         "authorName": "JoseHATESBOOKS",
         "text": "yummy dog",
         "createdAt": "2026-11-20T20:42:33.141Z"
+      },
+      {
+        "id": "comment_0ff980d1-6c97-4ff2-a081-bf8105d13ffe",
+        "authorId": "guest_71f86e26-6637-43c6-9f3d-75c015dff81a",
+        "authorName": "The plug",
+        "text": "put him in the air fryer",
+        "createdAt": "2026-11-20T21:08:54.612Z"
       }
     ]
   },

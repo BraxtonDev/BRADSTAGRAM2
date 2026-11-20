@@ -25,7 +25,15 @@
     "likes": [
       "guest_b284b8dd-e898-4e12-974e-7a836427f039"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_c5246e9f-a7a4-4846-8a28-202d4d02921c",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "he is skinny",
+        "createdAt": "2026-11-20T02:03:08.136Z"
+      }
+    ]
   },
   {
     "id": "post_db7a9773-f82c-40e1-a27f-02a1aed33bed",

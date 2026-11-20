@@ -21,7 +21,15 @@
     "createdAt": "2026-11-20T18:34:29.486Z",
     "expiresAt": "2026-12-05T18:34:29.486Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_09de3398-74cb-4836-955e-530f9112cc59",
+        "authorId": "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
+        "authorName": "Amelia.6.9",
+        "text": "ok.",
+        "createdAt": "2026-11-20T18:36:35.633Z"
+      }
+    ]
   },
   {
     "id": "post_4b436676-1218-4a33-adc9-c21c99d0fe39",

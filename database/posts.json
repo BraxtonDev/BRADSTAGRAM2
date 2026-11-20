@@ -139,6 +139,13 @@
         "authorName": "TheBlender",
         "text": "goon slop",
         "createdAt": "2026-11-20T18:36:05.200Z"
+      },
+      {
+        "id": "comment_08a5ba10-f594-43a3-8b0d-14400f85e2f0",
+        "authorId": "guest_71f86e26-6637-43c6-9f3d-75c015dff81a",
+        "authorName": "Banyan",
+        "text": "stop flexing",
+        "createdAt": "2026-11-20T18:44:51.103Z"
       }
     ]
   },

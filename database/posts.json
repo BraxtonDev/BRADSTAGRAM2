@@ -65,7 +65,15 @@
     "likes": [
       "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795192644758",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "stop posting nazi stuff",
+        "createdAt": "2026-11-20T16:37:24.758Z"
+      }
+    ]
   },
   {
     "id": "post_546aa1aa-eeaa-4458-8ad4-bc2575c280b5",

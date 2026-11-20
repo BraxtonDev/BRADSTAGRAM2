@@ -441,9 +441,7 @@
     "videoUrl": "",
     "createdAt": "2026-11-20T15:10:18.710Z",
     "expiresAt": "2026-12-20T15:10:18.710Z",
-    "likes": [
-      "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2"
-    ],
+    "likes": [],
     "comments": [
       {
         "id": "comment_9956ae25-fbfa-468e-9fc3-9f60b3a978ef",

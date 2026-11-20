@@ -33,7 +33,15 @@
     "createdAt": "2026-11-20T21:08:04.168Z",
     "expiresAt": "2026-12-05T21:08:04.168Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_b91717bb-74f6-4aa6-a0ce-a1d2400a3c61",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "WHOAH BRADLEY BAN THIS AND ADD A FILTER",
+        "createdAt": "2026-11-20T21:08:37.159Z"
+      }
+    ]
   },
   {
     "id": "post_3c05cea7-3757-4752-88b0-c7af84878f0d",

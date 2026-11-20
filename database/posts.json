@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T03:12:38.540Z",
     "expiresAt": "2026-12-05T03:12:38.540Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_2cab4dd9-17c0-4029-af4e-f00ab60135f1",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "Keeping an eye on this",
+        "createdAt": "2026-11-20T03:29:16.187Z"
+      }
+    ]
   },
   {
     "id": "post_d2d45574-36ca-4ff3-9b07-22c9624421cc",

@@ -102,6 +102,13 @@
         "authorName": "simonfromaustin",
         "text": "I stand with this",
         "createdAt": "2026-11-20T20:23:02.512Z"
+      },
+      {
+        "id": "comment_78ff4a04-bbae-446f-83dd-d15dc92a3120",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "W Stalin",
+        "createdAt": "2026-11-20T20:24:58.929Z"
       }
     ]
   },

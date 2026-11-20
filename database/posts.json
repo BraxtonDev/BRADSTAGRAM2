@@ -58,20 +58,6 @@
     ]
   },
   {
-    "id": "post_2c072106-49e3-4314-af3b-f61e0778b1ad",
-    "authorId": "guest_6c7b087b-9446-4cd2-900e-1f672618bc1e",
-    "authorName": "caldruki",
-    "caption": "hi",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-20T21:06:40.268Z",
-    "expiresAt": "2026-12-05T21:06:40.268Z",
-    "likes": [
-      "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e"
-    ],
-    "comments": []
-  },
-  {
     "id": "post_328c3852-3caa-49aa-bb0e-266f14612748",
     "authorId": "guest_6c7b087b-9446-4cd2-900e-1f672618bc1e",
     "authorName": "caldruki",

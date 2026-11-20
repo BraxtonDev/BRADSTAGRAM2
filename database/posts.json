@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T21:09:39.540Z",
     "expiresAt": "2026-12-05T21:09:39.540Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_0c207040-70a0-4c36-a9a6-5fef5e67ef77",
+        "authorId": "guest_6c7b087b-9446-4cd2-900e-1f672618bc1e",
+        "authorName": "caldruki",
+        "text": "and y'all dont",
+        "createdAt": "2026-11-20T21:09:54.260Z"
+      }
+    ]
   },
   {
     "id": "post_74d86464-1cb0-4d81-93fd-84813c3c67dc",

@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T20:16:04.973Z",
     "expiresAt": "2026-12-05T20:16:04.973Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795206306913",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "i love you",
+        "createdAt": "2026-11-20T20:25:06.913Z"
+      }
+    ]
   },
   {
     "id": "post_2ffbbb75-d73f-4734-85ef-5913bdb9da48",

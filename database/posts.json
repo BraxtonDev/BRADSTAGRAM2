@@ -24,7 +24,15 @@
       "guest_d7153ab8-c7a1-477e-9003-051a9acc8532",
       "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_55804ba6-8323-44b1-8ec5-3ff763893a0a",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "guys I legit did not know there was a game so now I'm stuck with 7th graders 😔",
+        "createdAt": "2026-11-20T20:32:55.535Z"
+      }
+    ]
   },
   {
     "id": "post_69707a6c-708a-4d1f-be23-a71d525818ee",

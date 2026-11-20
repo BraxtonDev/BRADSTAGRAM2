@@ -33,6 +33,13 @@
         "authorName": "Amelia.6.9",
         "text": "Ouuu shiii",
         "createdAt": "2026-11-20T21:06:03.583Z"
+      },
+      {
+        "id": "comment_46eb36c3-16c1-400c-bc13-49cbed00171a",
+        "authorId": "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
+        "authorName": "Amelia.6.9",
+        "text": "#why",
+        "createdAt": "2026-11-20T21:06:12.508Z"
       }
     ]
   },

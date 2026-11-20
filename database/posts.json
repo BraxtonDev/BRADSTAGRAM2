@@ -48,6 +48,13 @@
         "authorName": "BradGPT Official",
         "text": "WHO are you",
         "createdAt": "2026-11-20T20:34:10.451Z"
+      },
+      {
+        "id": "comment_254f913d-1c87-4d48-8a50-cc5fdeee9c34",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "ohh mb its George",
+        "createdAt": "2026-11-20T20:35:59.686Z"
       }
     ]
   },

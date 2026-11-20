@@ -23,7 +23,15 @@
     "createdAt": "2026-11-20T18:29:17.825Z",
     "expiresAt": "2026-12-05T18:29:17.825Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_9ce688f6-d138-40f4-9c48-4a24de43c42c",
+        "authorId": "guest_bd596037-c909-44fa-8e86-fafa4b98d712",
+        "authorName": "FEMSHIDOUGOON",
+        "text": "HOLYYY 🤤🤤🤤🤤",
+        "createdAt": "2026-11-20T18:31:10.659Z"
+      }
+    ]
   },
   {
     "id": "post_3b97aad2-2a36-4aa5-81e8-af1b68ccbe70",

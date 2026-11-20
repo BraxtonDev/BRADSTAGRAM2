@@ -43,7 +43,15 @@
     "createdAt": "2026-11-20T21:20:02.177Z",
     "expiresAt": "2026-12-05T21:20:02.177Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_a0452c92-5a9b-47ab-8aec-94ec574c4091",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "would you mind telling me your email (AISD, has stu)",
+        "createdAt": "2026-11-20T21:24:09.486Z"
+      }
+    ]
   },
   {
     "id": "post_bf67e8e1-f11c-49f6-8c5d-7a178742de8b",

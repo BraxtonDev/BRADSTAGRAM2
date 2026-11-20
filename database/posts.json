@@ -53,7 +53,15 @@
     "createdAt": "2026-11-20T21:08:28.137Z",
     "expiresAt": "2026-12-05T21:08:28.137Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_371a137b-2eb2-4c9d-af05-6c9db905bcdf",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "sy ur bau",
+        "createdAt": "2026-11-20T21:10:18.350Z"
+      }
+    ]
   },
   {
     "id": "post_3c05cea7-3757-4752-88b0-c7af84878f0d",

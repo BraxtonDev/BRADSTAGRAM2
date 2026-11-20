@@ -205,6 +205,13 @@
         "authorName": "caldruki",
         "text": "andrique",
         "createdAt": "2026-11-20T18:27:29.306Z"
+      },
+      {
+        "id": "comment_e9743be6-8e3c-4b3d-a7da-4acef6e0dc79",
+        "authorId": "guest_71f86e26-6637-43c6-9f3d-75c015dff81a",
+        "authorName": "Banyan",
+        "text": "ew...",
+        "createdAt": "2026-11-20T18:42:48.667Z"
       }
     ]
   },

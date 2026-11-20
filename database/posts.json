@@ -31,7 +31,15 @@
     "createdAt": "2026-11-20T21:22:22.198Z",
     "expiresAt": "2026-12-05T21:22:22.198Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_4a3e704f-b9d8-4d50-9f76-1cc3ed72c02e",
+        "authorId": "guest_b725c213-ac0f-42ef-a6d1-cd31727e7678",
+        "authorName": "IWalkDownSeniorCitizens",
+        "text": "Gooner baits only good if your hot",
+        "createdAt": "2026-11-20T21:24:37.945Z"
+      }
+    ]
   },
   {
     "id": "post_e9799134-ec37-4613-90fe-d6ebaf63487d",

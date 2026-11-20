@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T16:35:18.028Z",
     "expiresAt": "2026-12-05T16:35:18.028Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_18030316-f91b-4841-ac4a-9880ab92e263",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "gifs aren't supported on Bradstagram",
+        "createdAt": "2026-11-20T16:35:56.026Z"
+      }
+    ]
   },
   {
     "id": "post_3ab6d0b2-6d88-46c9-92a5-8ea120b6772a",

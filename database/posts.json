@@ -11,7 +11,15 @@
     "likes": [
       "guest_b725c213-ac0f-42ef-a6d1-cd31727e7678"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_3ea3a7ae-9f56-42d9-b867-e96948ab1882",
+        "authorId": "guest_b725c213-ac0f-42ef-a6d1-cd31727e7678",
+        "authorName": "IWalkDownSeniorCitizens",
+        "text": "I <3 You Too Thanks for using my catch phrase",
+        "createdAt": "2026-11-20T21:15:47.632Z"
+      }
+    ]
   },
   {
     "id": "post_77638294-b1ed-4a77-8955-d6222907a505",

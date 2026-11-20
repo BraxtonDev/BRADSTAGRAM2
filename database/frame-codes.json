@@ -6,9 +6,9 @@
       "createdAt": "2026-11-19T22:37:38.228Z"
     },
     {
-      "code": "WX62-RWG5",
+      "code": "LQHT-QHET",
       "color": "gold",
-      "createdAt": "2026-11-19T22:52:54.715Z"
+      "createdAt": "2026-11-20T18:19:41.013Z"
     },
     {
       "code": "ZXXK-8PMN",
@@ -43,6 +43,12 @@
   ],
   "used": [
     {
+      "code": "WX62-RWG5",
+      "color": "gold",
+      "by": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+      "at": "2026-11-20T18:19:41.013Z"
+    },
+    {
       "code": "EZ7C-XU77",
       "color": "sapphire",
       "by": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
@@ -55,5 +61,5 @@
       "at": "2026-11-19T22:52:54.715Z"
     }
   ],
-  "updatedAt": "2026-11-19T23:15:55.014Z"
+  "updatedAt": "2026-11-20T18:19:41.013Z"
 }

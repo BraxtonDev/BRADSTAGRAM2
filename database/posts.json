@@ -1,17 +1,5 @@
 [
   {
-    "id": "post_7cfd6ca6-d1cb-4b61-87e2-e84d1eb16b59",
-    "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
-    "authorName": "OwenAI",
-    "caption": "guys I gotta hop off I have to do my publication reflection",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-20T21:10:40.510Z",
-    "expiresAt": "2026-12-05T21:10:40.510Z",
-    "likes": [],
-    "comments": []
-  },
-  {
     "id": "post_9e69eff5-f71d-4671-a64b-d19772230cc2",
     "authorId": "guest_a4d0664c-3efe-4707-ad69-5ebfbc895d44",
     "authorName": "james",

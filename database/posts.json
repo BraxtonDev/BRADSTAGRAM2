@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T16:34:20.070Z",
     "expiresAt": "2026-12-05T16:34:20.070Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_045f3fed-6888-4614-8b20-650b0e524ce5",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "is this like orchestra pablo",
+        "createdAt": "2026-11-20T16:34:44.898Z"
+      }
+    ]
   },
   {
     "id": "post_98b35521-db47-437c-918e-1d5888d7466f",

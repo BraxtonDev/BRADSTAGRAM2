@@ -11,7 +11,15 @@
     "likes": [
       "guest_2aa61795-a206-44b9-a96d-65c1a3df3c4d"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795191701294",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "same",
+        "createdAt": "2026-11-20T16:21:41.294Z"
+      }
+    ]
   },
   {
     "id": "post_bce80d70-ba0d-4ffd-b0d2-63a28a80d95d",

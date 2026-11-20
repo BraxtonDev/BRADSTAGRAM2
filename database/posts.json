@@ -33,7 +33,15 @@
     "createdAt": "2026-11-20T18:34:22.657Z",
     "expiresAt": "2026-12-05T18:34:22.657Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_a68d5981-695d-46b6-897d-bc27153156fb",
+        "authorId": "guest_88355f7a-df5d-4560-8ea1-3057fc30eee9",
+        "authorName": "Guest",
+        "text": "goon slop",
+        "createdAt": "2026-11-20T18:35:45.374Z"
+      }
+    ]
   },
   {
     "id": "post_2ee104b8-8afe-4fe7-9dfa-9d6099e2b55b",

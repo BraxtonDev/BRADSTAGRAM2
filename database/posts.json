@@ -32,7 +32,15 @@
       "guest_b284b8dd-e898-4e12-974e-7a836427f039",
       "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_e68ebcaa-a9e3-447e-a4db-f5b49ec2f814",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "😢",
+        "createdAt": "2026-11-20T03:32:33.877Z"
+      }
+    ]
   },
   {
     "id": "post_53c6fc97-a52b-44a3-9169-b66c16d3a405",

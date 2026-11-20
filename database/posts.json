@@ -194,68 +194,6 @@
     ]
   },
   {
-    "id": "post_0e5b9e6d-0943-4dc5-98c5-629502a85214",
-    "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
-    "authorName": "olivergptoffich",
-    "caption": "olivetok is tuff its its owen website",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-20T16:22:15.591Z",
-    "expiresAt": "2026-12-20T16:22:15.591Z",
-    "likes": [],
-    "comments": [
-      {
-        "id": "comment_8e6ae38d-0b12-4015-9efb-027f433ac222",
-        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-        "authorName": "BradGPT Official",
-        "text": "👎nerd",
-        "createdAt": "2026-11-20T16:27:18.394Z"
-      },
-      {
-        "id": "comment_1795192284867",
-        "authorId": "guest_fcf1ac20-12bd-463e-84ed-e8d152d0901a",
-        "authorName": "Aids",
-        "text": "send me olivetok trust",
-        "createdAt": "2026-11-20T16:31:24.867Z"
-      },
-      {
-        "id": "comment_ee44fb1d-5f25-4cce-82a5-214cfa66492d",
-        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
-        "authorName": "OwenAI",
-        "text": "what do you mean \"owen\" website i did not help in this",
-        "createdAt": "2026-11-20T16:34:00.693Z"
-      },
-      {
-        "id": "comment_426422fb-72ee-43c3-a82f-90294ff52b0e",
-        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
-        "authorName": "OfficialEvilLucas",
-        "text": "Don't be ignorant. Use BradGPT.",
-        "createdAt": "2026-11-20T16:35:01.477Z"
-      },
-      {
-        "id": "comment_fc24274b-f98f-4474-891b-1135c74f5af5",
-        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-        "authorName": "BradGPT Official",
-        "text": "AI meetup here",
-        "createdAt": "2026-11-20T16:35:40.139Z"
-      },
-      {
-        "id": "comment_1795192668968",
-        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
-        "authorName": "olivergptoffich",
-        "text": "olive tok not out yet",
-        "createdAt": "2026-11-20T16:37:48.968Z"
-      },
-      {
-        "id": "comment_d69d1d25-9420-46bf-8879-4c934b07ef8f",
-        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
-        "authorName": "OfficialEvilLucas",
-        "text": "He meant \"own\"",
-        "createdAt": "2026-11-20T16:38:01.093Z"
-      }
-    ]
-  },
-  {
     "id": "post_c3c0ff6d-f30b-4ef9-a902-fcdb34efbef1",
     "authorId": "guest_2aa61795-a206-44b9-a96d-65c1a3df3c4d",
     "authorName": "PrinceofGlobia",

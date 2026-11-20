@@ -23,7 +23,15 @@
     "likes": [
       "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_4b47ee72-9cdf-49bf-8744-cd83ae778614",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "what is ts 😭",
+        "createdAt": "2026-11-20T20:54:33.354Z"
+      }
+    ]
   },
   {
     "id": "post_166440b7-59f8-481f-88e0-b24b220ff40d",

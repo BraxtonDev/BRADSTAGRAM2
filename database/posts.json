@@ -125,13 +125,6 @@
         "authorName": "One peice Ohio verity",
         "text": "Wtf is this",
         "createdAt": "2026-11-20T18:58:52.685Z"
-      },
-      {
-        "id": "comment_1795201134203",
-        "authorId": "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665",
-        "authorName": "One peice Ohio verity",
-        "text": "Wtf is this",
-        "createdAt": "2026-11-20T18:58:54.203Z"
       }
     ]
   },
@@ -175,13 +168,6 @@
         "authorName": "One peice Ohio verity",
         "text": "I'm poor",
         "createdAt": "2026-11-20T18:58:06.417Z"
-      },
-      {
-        "id": "comment_1795201088603",
-        "authorId": "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665",
-        "authorName": "One peice Ohio verity",
-        "text": "I'm poor",
-        "createdAt": "2026-11-20T18:58:08.603Z"
       }
     ]
   },
@@ -1027,13 +1013,6 @@
         "authorName": "One peice Ohio verity",
         "text": "Who was cast for",
         "createdAt": "2026-11-20T19:00:40.340Z"
-      },
-      {
-        "id": "comment_1795201242716",
-        "authorId": "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665",
-        "authorName": "One peice Ohio verity",
-        "text": "Who was cast for",
-        "createdAt": "2026-11-20T19:00:42.716Z"
       }
     ]
   },

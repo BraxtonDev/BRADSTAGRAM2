@@ -291,6 +291,13 @@
         "authorName": "One peice Ohio verity",
         "text": "Yeah",
         "createdAt": "2026-11-20T19:01:57.770Z"
+      },
+      {
+        "id": "comment_1795203456695",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "how do u get the outline like this",
+        "createdAt": "2026-11-20T19:37:36.695Z"
       }
     ]
   },

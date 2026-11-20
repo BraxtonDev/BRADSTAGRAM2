@@ -9,7 +9,15 @@
     "createdAt": "2026-11-20T18:20:01.945Z",
     "expiresAt": "2026-12-05T18:20:01.945Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_5f769325-cca7-4063-92c5-97ebc5591eaf",
+        "authorId": "guest_6c7b087b-9446-4cd2-900e-1f672618bc1e",
+        "authorName": "caldruki",
+        "text": "no dont",
+        "createdAt": "2026-11-20T18:27:04.952Z"
+      }
+    ]
   },
   {
     "id": "post_e26ff7b7-a8f1-4f9d-a859-3212d24ff141",

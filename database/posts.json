@@ -1,25 +1,5 @@
 [
   {
-    "id": "post_a89b3cc2-fa2e-48aa-8840-e5debae5bf73",
-    "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
-    "authorName": "BradGPT Official",
-    "caption": "remember our humble roots",
-    "imageUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/post_1795191919139_o2w758x.jpg",
-    "videoUrl": "",
-    "createdAt": "2026-11-20T16:25:20.861Z",
-    "expiresAt": "2026-12-05T16:25:20.861Z",
-    "likes": [],
-    "comments": [
-      {
-        "id": "comment_1795192267416",
-        "authorId": "guest_fcf1ac20-12bd-463e-84ed-e8d152d0901a",
-        "authorName": "ThebigPablo",
-        "text": "no",
-        "createdAt": "2026-11-20T16:31:07.416Z"
-      }
-    ]
-  },
-  {
     "id": "post_0e5b9e6d-0943-4dc5-98c5-629502a85214",
     "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
     "authorName": "olivergptoffich",

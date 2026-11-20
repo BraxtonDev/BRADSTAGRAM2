@@ -31,7 +31,15 @@
     "createdAt": "2026-11-20T15:10:18.710Z",
     "expiresAt": "2026-12-20T15:10:18.710Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_9956ae25-fbfa-468e-9fc3-9f60b3a978ef",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "😈",
+        "createdAt": "2026-11-20T15:35:54.721Z"
+      }
+    ]
   },
   {
     "id": "post_1dcebef6-53b8-40e2-bbe7-857595129692",

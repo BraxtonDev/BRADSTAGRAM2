@@ -11,7 +11,15 @@
     "likes": [
       "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_bb6434fa-3bb9-48af-985d-73a4581f45de",
+        "authorId": "guest_6c3cd9a8-a88d-4ba0-bd1d-dc32ae22b665",
+        "authorName": "One peice Ohio verity",
+        "text": "good kitty",
+        "createdAt": "2026-11-20T17:22:27.774Z"
+      }
+    ]
   },
   {
     "id": "post_9befc4f4-ba5a-4d4e-9be2-282e262f3fc2",

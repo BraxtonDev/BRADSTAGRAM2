@@ -18,6 +18,13 @@
         "authorName": "OwenAI",
         "text": "what are those tags bruh",
         "createdAt": "2026-11-20T21:04:39.625Z"
+      },
+      {
+        "id": "comment_12d34c34-2e8d-46e0-bd99-d6db777b614e",
+        "authorId": "guest_84d3eda6-39c8-4693-9014-7b14ec6789f4",
+        "authorName": "BradGPT Official",
+        "text": "alr",
+        "createdAt": "2026-11-20T21:05:09.534Z"
       }
     ]
   },

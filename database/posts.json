@@ -984,7 +984,15 @@
     "likes": [
       "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_692efa4d-4da2-45c4-9260-1b126a3a1580",
+        "authorId": "guest_71f86e26-6637-43c6-9f3d-75c015dff81a",
+        "authorName": "The plug",
+        "text": "imma beat them teachers so hard, no pause yes homo",
+        "createdAt": "2026-11-20T21:48:14.401Z"
+      }
+    ]
   },
   {
     "id": "post_eb6c88d2-b41d-459a-a43a-036986f4605c",

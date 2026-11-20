@@ -95,7 +95,15 @@
     "likes": [
       "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795203431290",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "ts lwk good",
+        "createdAt": "2026-11-20T19:37:11.290Z"
+      }
+    ]
   },
   {
     "id": "post_205532d2-8221-4769-be32-fc1e91319d6e",

@@ -11,7 +11,15 @@
     "likes": [
       "guest_b725c213-ac0f-42ef-a6d1-cd31727e7678"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_0ab38165-92f6-44c2-a65c-7d5b5ff8b03c",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "what are those tags bruh",
+        "createdAt": "2026-11-20T21:04:39.625Z"
+      }
+    ]
   },
   {
     "id": "post_3a2d3db8-2921-4a3a-bf5b-130545f5d8e1",

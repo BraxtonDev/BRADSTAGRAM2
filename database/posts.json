@@ -21,7 +21,15 @@
     "createdAt": "2026-11-20T23:06:57.648Z",
     "expiresAt": "2026-12-05T23:06:57.648Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_f8c365a4-e891-4687-8283-4caf863b37cc",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "This is why Bradley needs to add bannin",
+        "createdAt": "2026-11-21T01:05:39.561Z"
+      }
+    ]
   },
   {
     "id": "post_1cfd0e11-3957-49b4-989d-c45b9635b73a",

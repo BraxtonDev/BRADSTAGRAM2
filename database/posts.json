@@ -9,7 +9,15 @@
     "createdAt": "2026-11-21T04:16:31.294Z",
     "expiresAt": "2026-12-06T04:16:31.294Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795269543337",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "ok btw I'm working on the map",
+        "createdAt": "2026-11-21T13:59:03.337Z"
+      }
+    ]
   },
   {
     "id": "post_8a073650-4bb6-482e-b3e0-579b05b6a13d",

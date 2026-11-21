@@ -9,7 +9,15 @@
     "createdAt": "2026-11-21T17:41:03.970Z",
     "expiresAt": "2026-12-06T17:41:03.970Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_a352bca5-4bdb-4f49-8e47-51bab50a3ab0",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "maybe the numbers would be different but still this would be a good idea instead of the deleted after 15 days thing",
+        "createdAt": "2026-11-21T17:41:48.299Z"
+      }
+    ]
   },
   {
     "id": "post_5d8acb64-50e3-49f5-94c4-f3218838bdb2",

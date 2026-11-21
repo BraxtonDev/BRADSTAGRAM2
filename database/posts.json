@@ -33,7 +33,15 @@
     "createdAt": "2026-11-21T14:48:52.027Z",
     "expiresAt": "2026-12-06T14:48:52.027Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_45a2e493-3b4a-4a22-8a0c-238bec8bbd06",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "good job",
+        "createdAt": "2026-11-21T16:17:28.397Z"
+      }
+    ]
   },
   {
     "id": "post_794528b4-c07b-4e55-92e9-de3ab7f71d6c",

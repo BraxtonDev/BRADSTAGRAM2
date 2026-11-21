@@ -9,7 +9,15 @@
     "createdAt": "2026-11-21T04:01:30.524Z",
     "expiresAt": "2026-12-06T04:01:30.524Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_34e001f7-7cda-4732-bf24-247acd30d4c6",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "ok",
+        "createdAt": "2026-11-21T04:12:36.839Z"
+      }
+    ]
   },
   {
     "id": "post_249aa5e3-1213-4f45-86af-223279059806",

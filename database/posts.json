@@ -8,7 +8,9 @@
     "videoUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/video_1795283740418_hfx9l23.mp4",
     "createdAt": "2026-11-21T17:55:42.589Z",
     "expiresAt": "2026-12-06T17:55:42.589Z",
-    "likes": [],
+    "likes": [
+      "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e"
+    ],
     "comments": []
   },
   {

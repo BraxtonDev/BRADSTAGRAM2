@@ -1,17 +1,5 @@
 [
   {
-    "id": "post_013b1b28-9fa9-422e-a6c2-ac55f6c3d03e",
-    "authorId": "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
-    "authorName": "Amelia.6.9",
-    "caption": "WHO is online rn",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-21T22:35:30.335Z",
-    "expiresAt": "2026-12-06T22:35:30.335Z",
-    "likes": [],
-    "comments": []
-  },
-  {
     "id": "post_3cbc51bc-6c0a-4484-8ac7-5a09f8cf6f32",
     "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
     "authorName": "OfficialEvilLucas",

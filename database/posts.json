@@ -9,7 +9,15 @@
     "createdAt": "2026-11-21T14:22:17.880Z",
     "expiresAt": "2026-12-06T14:22:17.880Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795271026727",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "hi there",
+        "createdAt": "2026-11-21T14:23:46.727Z"
+      }
+    ]
   },
   {
     "id": "post_df61e4c0-80e0-4a79-be85-655ccbbf768a",

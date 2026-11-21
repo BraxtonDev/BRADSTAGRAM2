@@ -12,7 +12,15 @@
       "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
       "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_c9ecda77-819e-410f-97af-a456063dba54",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "is anyone else online",
+        "createdAt": "2026-11-21T17:25:43.975Z"
+      }
+    ]
   },
   {
     "id": "post_acda76a7-9e23-4344-975d-feb06c9fe303",

@@ -136,7 +136,15 @@
     "createdAt": "2026-11-21T03:59:39.760Z",
     "expiresAt": "2026-12-06T03:59:39.760Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_7e4119da-3e69-4c8d-a94a-edd4e36fede5",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "I'm surprised people were online at 11 PM",
+        "createdAt": "2026-11-21T15:44:41.351Z"
+      }
+    ]
   },
   {
     "id": "post_fc12f1ca-1926-44fe-8893-dadb535eca05",

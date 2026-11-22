@@ -24,7 +24,15 @@
       "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
       "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_ac3d8f1a-f369-44eb-b2dc-cafe6f18bd5a",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "Who is this guy",
+        "createdAt": "2026-11-22T18:05:27.294Z"
+      }
+    ]
   },
   {
     "id": "post_a6d912f9-b513-4462-b000-9a837f9c8f8f",

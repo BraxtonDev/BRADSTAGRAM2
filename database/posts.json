@@ -44,6 +44,13 @@
         "authorName": "AdminGPT",
         "text": "do you want admin?",
         "createdAt": "2026-11-22T18:09:02.343Z"
+      },
+      {
+        "id": "comment_59b5f053-b102-425d-94d7-8fce3e5e5e48",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "6",
+        "createdAt": "2026-11-22T18:09:11.879Z"
       }
     ]
   },

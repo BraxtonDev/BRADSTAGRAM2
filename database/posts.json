@@ -28,6 +28,13 @@
         "authorName": "Amelia.6.9",
         "text": "Why you 😢",
         "createdAt": "2026-11-22T02:36:11.669Z"
+      },
+      {
+        "id": "comment_09839e6a-90dc-439e-83c3-e4b3dcb74118",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "I can code",
+        "createdAt": "2026-11-22T02:37:32.618Z"
       }
     ]
   },

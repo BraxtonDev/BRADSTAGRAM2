@@ -23,6 +23,13 @@
         "authorName": "AdminGPT",
         "text": "I'm not saying I'm better",
         "createdAt": "2026-11-22T18:07:01.712Z"
+      },
+      {
+        "id": "comment_d8eb583f-6394-41c4-b2ce-152c8964091e",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "I just found a simple exploit",
+        "createdAt": "2026-11-22T18:07:38.397Z"
       }
     ]
   },

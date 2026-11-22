@@ -43,6 +43,13 @@
         "authorName": "olivergptoffich",
         "text": "who are you",
         "createdAt": "2026-11-22T04:48:59.764Z"
+      },
+      {
+        "id": "comment_7ee0ba67-0780-4824-a075-f1121c4c2f44",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "a guy who is good at actual coding",
+        "createdAt": "2026-11-22T04:51:51.163Z"
       }
     ]
   },

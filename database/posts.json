@@ -309,6 +309,13 @@
         "authorName": "OwenAI",
         "text": "FINALLY SOMEONE BESIDES ME WHO ACTUALLY KNOWS HOW TO CODE",
         "createdAt": "2026-11-22T15:17:11.457Z"
+      },
+      {
+        "id": "comment_a506e895-a986-450f-87d7-964ed1ed1c3d",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "yay",
+        "createdAt": "2026-11-22T18:13:02.926Z"
       }
     ]
   },

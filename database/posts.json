@@ -52,6 +52,13 @@
         "authorName": "Amelia.6.9",
         "text": "nice",
         "createdAt": "2026-11-22T02:37:53.281Z"
+      },
+      {
+        "id": "comment_aaea508a-c5e2-462e-b567-0d7fc1dc301e",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "pretty easy",
+        "createdAt": "2026-11-22T02:37:59.551Z"
       }
     ]
   },

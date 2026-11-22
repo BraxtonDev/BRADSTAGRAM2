@@ -902,7 +902,15 @@
       "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
       "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_e034c3a2-49da-462f-84d1-d2491cbe76b7",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "actually not a bad idea",
+        "createdAt": "2026-11-22T19:53:10.211Z"
+      }
+    ]
   },
   {
     "id": "post_c49a3470-4456-4e55-a350-022e7d58b0a3",

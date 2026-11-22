@@ -9,7 +9,15 @@
     "createdAt": "2026-11-22T04:49:19.798Z",
     "expiresAt": "2026-12-07T04:49:19.798Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_1795322984224",
+        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
+        "authorName": "olivergptoffich",
+        "text": "espechially wif the loks prat",
+        "createdAt": "2026-11-22T04:49:44.224Z"
+      }
+    ]
   },
   {
     "id": "post_a199527f-2bac-4771-bd13-f9c33111eb96",

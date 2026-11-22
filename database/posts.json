@@ -1,32 +1,5 @@
 [
   {
-    "id": "post_24b526a6-cf4d-4c1f-b7e1-9b9afaa9459c",
-    "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
-    "authorName": "AdminGPT",
-    "caption": "Owen, I can get you dark mode",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-22T18:19:06.043Z",
-    "expiresAt": "2026-12-07T18:19:06.043Z",
-    "likes": [],
-    "comments": [
-      {
-        "id": "comment_f702982c-9124-4881-a91c-ff3c9fcc47e4",
-        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
-        "authorName": "OfficialEvilLucas",
-        "text": "Resist temptation, Owen. You can do this. And AdminGPT, you better reveal yourself coward.",
-        "createdAt": "2026-11-22T18:34:12.731Z"
-      },
-      {
-        "id": "comment_31a7022d-1d60-4680-b763-990473e233e2",
-        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
-        "authorName": "AdminGPT",
-        "text": "not a coward just want to stay anonymous",
-        "createdAt": "2026-11-22T19:35:06.949Z"
-      }
-    ]
-  },
-  {
     "id": "post_a8732946-437f-4b2f-9f85-94c2f2d15731",
     "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
     "authorName": "OfficialEvilLucas",

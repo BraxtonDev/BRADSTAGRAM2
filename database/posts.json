@@ -30,6 +30,13 @@
         "authorName": "AdminGPT",
         "text": "I just found a simple exploit",
         "createdAt": "2026-11-22T18:07:38.397Z"
+      },
+      {
+        "id": "comment_d8769500-15ab-4796-8dec-6e9786376aa0",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "anyone with a bit of coding knowledge can do the same thing",
+        "createdAt": "2026-11-22T18:08:31.488Z"
       }
     ]
   },

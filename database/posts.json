@@ -217,28 +217,6 @@
     ]
   },
   {
-    "id": "post_6f0d935d-734b-4a08-9f83-b9e7a18bbe0e",
-    "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
-    "authorName": "AdminGPT",
-    "caption": "how do you make games like this I'm making gol",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-22T05:32:14.648Z",
-    "expiresAt": "2026-12-07T05:32:14.648Z",
-    "likes": [
-      "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127"
-    ],
-    "comments": [
-      {
-        "id": "comment_d519d87f-5fe4-4f0d-a6bb-6f79e41bf8b5",
-        "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
-        "authorName": "foot licker",
-        "text": "how did you get admin",
-        "createdAt": "2026-11-22T05:46:14.945Z"
-      }
-    ]
-  },
-  {
     "id": "post_03875863-0813-4dd5-ab71-0c787f229824",
     "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
     "authorName": "olivergptoffich",

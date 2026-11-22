@@ -369,35 +369,6 @@
     ]
   },
   {
-    "id": "post_551b0e16-a144-4389-ad52-6a035e451317",
-    "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
-    "authorName": "AdminGPT",
-    "caption": "I am too strong",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-22T02:36:03.154Z",
-    "expiresAt": "2026-12-07T02:36:03.154Z",
-    "likes": [
-      "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e"
-    ],
-    "comments": [
-      {
-        "id": "comment_abe7dc2d-4d3e-4f15-84cd-db5d0ecb3cd2",
-        "authorId": "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
-        "authorName": "Amelia.6.9",
-        "text": "i guess bro...",
-        "createdAt": "2026-11-22T02:37:33.322Z"
-      },
-      {
-        "id": "comment_1795316929728",
-        "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
-        "authorName": "olivergptoffich",
-        "text": "shut up admin gpt",
-        "createdAt": "2026-11-22T03:08:49.728Z"
-      }
-    ]
-  },
-  {
     "id": "post_6fdd0003-57da-4cf7-97c6-fd7c6eb161a3",
     "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
     "authorName": "AdminGPT",

@@ -44,6 +44,13 @@
         "authorName": "foot licker",
         "text": "so who are you",
         "createdAt": "2026-11-22T20:18:38.983Z"
+      },
+      {
+        "id": "comment_c39bda80-834d-4c22-9fe3-c4a1d6c7bcce",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "who are you",
+        "createdAt": "2026-11-22T20:19:26.121Z"
       }
     ]
   },

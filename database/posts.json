@@ -239,7 +239,15 @@
     "createdAt": "2026-11-22T03:11:31.421Z",
     "expiresAt": "2026-12-07T03:11:31.421Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_b9df0969-1a3f-4b7e-b4dd-68a989bbd797",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "no I haven't played that since like 4th grade or something",
+        "createdAt": "2026-11-22T15:18:10.274Z"
+      }
+    ]
   },
   {
     "id": "post_551b0e16-a144-4389-ad52-6a035e451317",

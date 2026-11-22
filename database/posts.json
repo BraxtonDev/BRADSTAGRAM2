@@ -21,7 +21,15 @@
     "createdAt": "2026-11-22T02:34:23.156Z",
     "expiresAt": "2026-12-07T02:34:23.156Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_717b994c-9451-474d-880c-155d98624aaf",
+        "authorId": "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
+        "authorName": "Amelia.6.9",
+        "text": "Why you 😢",
+        "createdAt": "2026-11-22T02:36:11.669Z"
+      }
+    ]
   },
   {
     "id": "post_68d091fb-1b52-49a5-82fa-0b0d4bc94692",

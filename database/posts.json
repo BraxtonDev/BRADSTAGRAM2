@@ -16,6 +16,13 @@
         "authorName": "foot licker",
         "text": "1",
         "createdAt": "2026-11-22T05:54:24.651Z"
+      },
+      {
+        "id": "comment_32733732-43af-403e-b6c8-916de3544c37",
+        "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
+        "authorName": "foot licker",
+        "text": "2",
+        "createdAt": "2026-11-22T05:54:29.539Z"
       }
     ]
   },

@@ -11,7 +11,15 @@
     "likes": [
       "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_9bdac9aa-5743-46b7-bc00-2ebd33eaa4eb",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "HOLY CRAP IS THAT AN OWENAI CAMEO APPEARANCE???",
+        "createdAt": "2026-11-22T01:04:17.954Z"
+      }
+    ]
   },
   {
     "id": "post_d03729d5-afb0-48df-917c-5f92b41100ff",

@@ -246,6 +246,13 @@
         "authorName": "AdminGPT",
         "text": "yay",
         "createdAt": "2026-11-22T18:13:02.926Z"
+      },
+      {
+        "id": "comment_3b2cf62d-00a8-45b6-af1e-833a2610da8a",
+        "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
+        "authorName": "foot licker",
+        "text": "oh I thought everyone was just using chatgpt",
+        "createdAt": "2026-11-22T19:40:17.389Z"
       }
     ]
   },

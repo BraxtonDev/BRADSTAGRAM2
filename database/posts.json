@@ -9,7 +9,15 @@
     "createdAt": "2026-11-22T01:40:48.387Z",
     "expiresAt": "2026-12-07T01:40:48.387Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_eb061758-2a60-440a-9075-95f1e510bb1b",
+        "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
+        "authorName": "foot licker",
+        "text": "Drop the file there. Also I think you didn't include a max comment size.",
+        "createdAt": "2026-11-22T01:58:26.810Z"
+      }
+    ]
   },
   {
     "id": "post_3cbc51bc-6c0a-4484-8ac7-5a09f8cf6f32",

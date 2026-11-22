@@ -65,6 +65,13 @@
         "authorName": "aaaaaaaaaaaaaaaaaaaaaaaa",
         "text": "8",
         "createdAt": "2026-11-22T02:29:39.714Z"
+      },
+      {
+        "id": "comment_e534fa5b-1131-4508-b486-5270229647ce",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "aaaaaaaaaaaaaaaaaaaaaaaa",
+        "text": "9",
+        "createdAt": "2026-11-22T02:29:45.043Z"
       }
     ]
   },

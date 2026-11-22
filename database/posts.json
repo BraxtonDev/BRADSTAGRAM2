@@ -9,7 +9,15 @@
     "createdAt": "2026-11-22T03:14:44.435Z",
     "expiresAt": "2026-12-07T03:14:44.435Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_b690b356-19ab-47b7-a149-153f74d90013",
+        "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
+        "authorName": "foot licker",
+        "text": "why",
+        "createdAt": "2026-11-22T03:51:22.337Z"
+      }
+    ]
   },
   {
     "id": "post_c8c09eb8-d8d7-4927-b61e-5c31da15d80f",

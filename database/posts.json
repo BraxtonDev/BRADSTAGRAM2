@@ -253,6 +253,13 @@
         "authorName": "foot licker",
         "text": "oh I thought everyone was just using chatgpt",
         "createdAt": "2026-11-22T19:40:17.389Z"
+      },
+      {
+        "id": "comment_e3c933ec-0e87-424a-9dd0-e75746a46ee8",
+        "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
+        "authorName": "foot licker",
+        "text": "I can code as well I just don't know java",
+        "createdAt": "2026-11-22T19:41:02.229Z"
       }
     ]
   },

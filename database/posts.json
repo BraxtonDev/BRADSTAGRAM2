@@ -45,6 +45,13 @@
         "authorName": "AdminGPT",
         "text": "I can code",
         "createdAt": "2026-11-22T02:37:32.618Z"
+      },
+      {
+        "id": "comment_1d97e5ee-3d30-4bcc-9e32-dd1a39d8ec92",
+        "authorId": "guest_7cf2670d-afb0-47d0-9f4e-40e24f67ee1e",
+        "authorName": "Amelia.6.9",
+        "text": "nice",
+        "createdAt": "2026-11-22T02:37:53.281Z"
       }
     ]
   },

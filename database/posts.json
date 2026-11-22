@@ -35,6 +35,13 @@
         "authorName": "olivergptoffich",
         "text": "i make game",
         "createdAt": "2026-11-22T04:07:44.961Z"
+      },
+      {
+        "id": "comment_9ad6d724-c44c-41f6-a044-be039916be55",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "can you say how because I am trying to make a game",
+        "createdAt": "2026-11-22T04:22:57.975Z"
       }
     ]
   },

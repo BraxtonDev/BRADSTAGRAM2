@@ -93,6 +93,13 @@
         "authorName": "foot licker",
         "text": "also why cant you see more than five comments",
         "createdAt": "2026-11-22T20:25:21.902Z"
+      },
+      {
+        "id": "comment_3129acb9-0276-409f-9237-9061b6a1df6d",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "idk",
+        "createdAt": "2026-11-22T20:25:40.230Z"
       }
     ]
   },

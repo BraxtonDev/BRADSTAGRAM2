@@ -166,42 +166,6 @@
     "comments": []
   },
   {
-    "id": "post_ff0d0506-604c-4f9a-8f6f-886a69345db1",
-    "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
-    "authorName": "foot licker",
-    "caption": "does this work",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-22T05:54:18.085Z",
-    "expiresAt": "2026-12-07T05:54:18.085Z",
-    "likes": [
-      "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127"
-    ],
-    "comments": [
-      {
-        "id": "comment_fab036f7-b1d2-4a5a-8b31-92cc3a189def",
-        "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
-        "authorName": "foot licker",
-        "text": "1",
-        "createdAt": "2026-11-22T05:54:24.651Z"
-      },
-      {
-        "id": "comment_32733732-43af-403e-b6c8-916de3544c37",
-        "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
-        "authorName": "foot licker",
-        "text": "2",
-        "createdAt": "2026-11-22T05:54:29.539Z"
-      },
-      {
-        "id": "comment_1858aa49-e4e7-4e6d-b296-80136f319936",
-        "authorId": "guest_1e94e5d3-6192-4739-9be2-73b6c2c49127",
-        "authorName": "foot licker",
-        "text": "3",
-        "createdAt": "2026-11-22T05:54:34.461Z"
-      }
-    ]
-  },
-  {
     "id": "post_03875863-0813-4dd5-ab71-0c787f229824",
     "authorId": "guest_2fa0fa89-21d6-459f-9f77-13aa4d14662b",
     "authorName": "olivergptoffich",

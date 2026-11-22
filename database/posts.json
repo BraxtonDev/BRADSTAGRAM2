@@ -30,6 +30,13 @@
         "authorName": "foot licker",
         "text": "no your too skinny",
         "createdAt": "2026-11-22T19:45:46.466Z"
+      },
+      {
+        "id": "comment_21e05d6a-df61-4a9f-8641-4bab512ba282",
+        "authorId": "guest_6c947a95-ea83-497b-9389-1a420ab23761",
+        "authorName": "AdminGPT",
+        "text": "lmao",
+        "createdAt": "2026-11-22T19:45:58.397Z"
       }
     ]
   },

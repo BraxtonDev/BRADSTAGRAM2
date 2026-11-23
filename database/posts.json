@@ -11,7 +11,15 @@
     "likes": [
       "guest_e27525d7-eb20-4af6-a739-6026547d50a4"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_4b1a75af-61c6-4b93-825d-7690aec53b95",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "BradGPT must collaborate with OwenAI. This game can't be another terrible BradGPT game that takes two days to code like Bradlatro. This needs to be great. We need another revolutionary game.",
+        "createdAt": "2026-11-23T18:12:00.075Z"
+      }
+    ]
   },
   {
     "id": "post_1ce1f08d-2daf-4a15-bc9c-fefd31e71f75",

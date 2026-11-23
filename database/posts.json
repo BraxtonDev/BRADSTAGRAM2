@@ -628,6 +628,13 @@
         "authorName": "foot licker",
         "text": "never mind you did",
         "createdAt": "2026-11-22T02:00:52.512Z"
+      },
+      {
+        "id": "comment_77234c27-6261-4727-83ce-04b7e29fae00",
+        "authorId": "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
+        "authorName": "BradGPT on mobile",
+        "text": "Hell nah",
+        "createdAt": "2026-11-23T01:54:26.995Z"
       }
     ]
   },

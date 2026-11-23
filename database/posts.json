@@ -11,7 +11,15 @@
     "likes": [
       "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_f7bd0a17-109d-48a9-8aed-b3e43217e112",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "ok bro who is this",
+        "createdAt": "2026-11-23T17:00:21.992Z"
+      }
+    ]
   },
   {
     "id": "post_00f84728-83e8-4dbd-aa8b-ef7772ffdb90",

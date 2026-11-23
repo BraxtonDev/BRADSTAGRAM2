@@ -9,7 +9,15 @@
     "createdAt": "2026-11-23T04:39:59.231Z",
     "expiresAt": "2026-12-08T04:39:59.231Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_30d17d8c-c127-4f0a-ab52-8e281b42091b",
+        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
+        "authorName": "AdminV2",
+        "text": "but that does mean I can unban my self which is nice",
+        "createdAt": "2026-11-23T04:40:46.032Z"
+      }
+    ]
   },
   {
     "id": "post_f825f193-c5ad-4e97-883b-ad0414def226",

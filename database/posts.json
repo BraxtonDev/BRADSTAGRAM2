@@ -9,7 +9,15 @@
     "createdAt": "2026-11-23T16:23:45.827Z",
     "expiresAt": "2026-12-08T16:23:45.827Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_8c0327ee-d4fd-4f56-bb35-68bd15356457",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "and also you should be able to ping people like this @OwenAI",
+        "createdAt": "2026-11-23T16:24:22.427Z"
+      }
+    ]
   },
   {
     "id": "post_4c54a451-c518-4322-9a7f-44765d0ff0b9",

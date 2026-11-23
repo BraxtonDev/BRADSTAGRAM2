@@ -32,7 +32,15 @@
       "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
       "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_8c4b4884-1b20-4a45-b2cb-926cc056d68a",
+        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
+        "authorName": "AdminV2",
+        "text": "grass",
+        "createdAt": "2026-11-23T04:43:15.750Z"
+      }
+    ]
   },
   {
     "id": "post_151e3dd4-ebdc-4cb6-b06f-cc2a10031f49",

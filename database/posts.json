@@ -12,7 +12,15 @@
       "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
       "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_eefe8c70-d012-4889-8a9f-3a1572b4f144",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "I dare you to make a game better than port panic",
+        "createdAt": "2026-11-23T17:55:28.796Z"
+      }
+    ]
   },
   {
     "id": "post_c6da823a-0303-42a6-a008-574540588f60",

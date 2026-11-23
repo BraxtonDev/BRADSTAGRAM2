@@ -68,6 +68,13 @@
         "authorName": "OfficialEvilLucas",
         "text": "who is jeslu?",
         "createdAt": "2026-11-23T17:04:20.156Z"
+      },
+      {
+        "id": "comment_4cdd1baf-65e4-4437-9b35-8ef415e44157",
+        "authorId": "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
+        "authorName": "BradGPT on mobile",
+        "text": "What the hell?",
+        "createdAt": "2026-11-23T17:54:14.454Z"
       }
     ]
   },

@@ -183,6 +183,10 @@
     "name": "AdminV2",
     "bio": "Fake",
     "avatarUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/avatar_1795408794359_jzfv5tf.jpg",
-    "bypass": true
+    "bypass": true,
+    "frames": [
+      "#000000"
+    ],
+    "frame": "#000000"
   }
 }

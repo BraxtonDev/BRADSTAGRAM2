@@ -182,6 +182,7 @@
   "guest_1946e876-05df-48cd-b4c2-f349343cbf51": {
     "name": "AdminV2",
     "bio": "Fake",
-    "avatarUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/avatar_1795408794359_jzfv5tf.jpg"
+    "avatarUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/avatar_1795408794359_jzfv5tf.jpg",
+    "bypass": true
   }
 }

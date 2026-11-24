@@ -16,6 +16,13 @@
         "authorName": "AdminV2",
         "text": "damn I tried to give myself dev access, it crashed",
         "createdAt": "2026-11-24T05:35:42.315Z"
+      },
+      {
+        "id": "comment_9507738c-0448-413e-9851-aa8b7cbaf1fa",
+        "authorId": "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
+        "authorName": "BradGPT on mobile",
+        "text": "The system that we have is unhackable.",
+        "createdAt": "2026-11-24T15:57:01.335Z"
       }
     ]
   },

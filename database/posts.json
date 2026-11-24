@@ -9,7 +9,15 @@
     "createdAt": "2026-11-24T00:01:34.008Z",
     "expiresAt": "2026-12-09T00:01:34.008Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_dd969855-2550-4b47-87cf-0d7abc111dd3",
+        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
+        "authorName": "AdminV2",
+        "text": "damn I tried to give myself dev access, it crashed",
+        "createdAt": "2026-11-24T05:35:42.315Z"
+      }
+    ]
   },
   {
     "id": "post_5c3c4f51-5bf6-49c4-acec-7ced78d22451",

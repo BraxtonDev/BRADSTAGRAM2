@@ -936,6 +936,13 @@
         "authorName": "AdminGPT",
         "text": "10",
         "createdAt": "2026-11-22T02:29:52.079Z"
+      },
+      {
+        "id": "comment_257fb80d-8ffa-41c9-be68-277252567be4",
+        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
+        "authorName": "AdminV2",
+        "text": "I cant delete this",
+        "createdAt": "2026-11-24T03:29:19.937Z"
       }
     ]
   },

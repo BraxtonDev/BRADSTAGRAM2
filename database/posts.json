@@ -2355,6 +2355,13 @@
         "authorName": "The plug",
         "text": "put him in the air fryer",
         "createdAt": "2026-11-20T21:08:54.612Z"
+      },
+      {
+        "id": "comment_4b0585e4-2da0-47f3-9e79-da35447e2d3a",
+        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
+        "authorName": "AdminV2",
+        "text": "chips in the bag",
+        "createdAt": "2026-11-24T03:15:29.123Z"
       }
     ]
   },

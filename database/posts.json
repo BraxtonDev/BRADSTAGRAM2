@@ -23,7 +23,15 @@
     "likes": [
       "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_18e6b934-42a4-41c3-89ec-bf8d921465a6",
+        "authorId": "guest_28f09aca-e41d-4919-80c8-d8243b3c0ee5",
+        "authorName": "foot licker",
+        "text": "peak🥹",
+        "createdAt": "2026-11-24T03:03:24.553Z"
+      }
+    ]
   },
   {
     "id": "post_f27bbe7a-6b34-4ff7-85e8-9b77ba461bed",

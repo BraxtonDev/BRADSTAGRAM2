@@ -21,7 +21,15 @@
     "createdAt": "2026-11-25T21:36:46.716Z",
     "expiresAt": "2026-12-10T21:36:46.716Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_e37318d2-cf4e-4b32-976c-863ea9b27391",
+        "authorId": "guest_28f09aca-e41d-4919-80c8-d8243b3c0ee5",
+        "authorName": "foot licker",
+        "text": "9 and 11/11 he two saddest days is american history 😭",
+        "createdAt": "2026-11-25T21:49:01.834Z"
+      }
+    ]
   },
   {
     "id": "post_14e4cbdc-e813-4201-911e-dfa1ce3148a8",

@@ -9,7 +9,15 @@
     "createdAt": "2026-11-25T03:28:43.852Z",
     "expiresAt": "2026-12-10T03:28:43.852Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_e168f619-51a0-48b3-a1f1-c96fd109f7b1",
+        "authorId": "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
+        "authorName": "BradGPT on mobile",
+        "text": "The servers will get REALLY slow in the next week",
+        "createdAt": "2026-11-25T04:05:15.654Z"
+      }
+    ]
   },
   {
     "id": "post_c5e1ec30-e5a6-4b8f-9edb-8dcdb966fa10",

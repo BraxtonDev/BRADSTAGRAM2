@@ -46,6 +46,13 @@
         "authorName": "OfficialEvilLucas",
         "text": "Can't you just delete some random posts from people like footlicker or lesluk to save some space?",
         "createdAt": "2026-11-25T16:24:06.964Z"
+      },
+      {
+        "id": "comment_afe6dbf0-3197-4893-b7b8-9d655370feb8",
+        "authorId": "guest_06b98e07-376a-4ae5-94c2-775cce82cb32",
+        "authorName": "Lesluk",
+        "text": "@OfficialEvilLucas bro stop",
+        "createdAt": "2026-11-25T16:42:46.183Z"
       }
     ]
   },

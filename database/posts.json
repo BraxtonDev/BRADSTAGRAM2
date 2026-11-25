@@ -32,7 +32,15 @@
       "guest_28f09aca-e41d-4919-80c8-d8243b3c0ee5",
       "guest_1946e876-05df-48cd-b4c2-f349343cbf51"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_d310176c-a69c-49bc-af80-9df3120010b0",
+        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
+        "authorName": "AdminV2",
+        "text": "why",
+        "createdAt": "2026-11-25T18:38:00.125Z"
+      }
+    ]
   },
   {
     "id": "post_533a45bf-24a1-412b-adea-8bf75a430698",

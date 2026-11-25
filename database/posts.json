@@ -9,7 +9,15 @@
     "createdAt": "2026-11-25T21:25:41.847Z",
     "expiresAt": "2026-12-10T21:25:41.847Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_4e21ac27-24aa-4621-9883-92786f8e3f18",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "I predicted it. A great calamity.",
+        "createdAt": "2026-11-25T21:30:47.019Z"
+      }
+    ]
   },
   {
     "id": "post_f8b67c39-f3ed-4559-a827-4ba63f43b6dd",

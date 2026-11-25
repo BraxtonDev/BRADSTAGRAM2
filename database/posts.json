@@ -16,6 +16,13 @@
         "authorName": "AdminV2",
         "text": "yay could I help",
         "createdAt": "2026-11-25T18:33:51.963Z"
+      },
+      {
+        "id": "comment_76c48286-64ba-4f56-979b-e97d2e63abc1",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "Awesome. Can I help you with making some music tracks? If we combine our skills it could be pretty cool.",
+        "createdAt": "2026-11-25T21:07:52.293Z"
       }
     ]
   },

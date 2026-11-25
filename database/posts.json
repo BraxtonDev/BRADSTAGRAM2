@@ -95,61 +95,6 @@
     ]
   },
   {
-    "id": "post_c0d4ca61-e797-4dc4-9829-25208b255ed6",
-    "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
-    "authorName": "AdminV2",
-    "caption": "&39;",
-    "imageUrl": "",
-    "videoUrl": "",
-    "createdAt": "2026-11-24T00:01:34.008Z",
-    "expiresAt": "2026-12-09T00:01:34.008Z",
-    "likes": [],
-    "comments": [
-      {
-        "id": "comment_dd969855-2550-4b47-87cf-0d7abc111dd3",
-        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
-        "authorName": "AdminV2",
-        "text": "damn I tried to give myself dev access, it crashed",
-        "createdAt": "2026-11-24T05:35:42.315Z"
-      },
-      {
-        "id": "comment_9507738c-0448-413e-9851-aa8b7cbaf1fa",
-        "authorId": "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
-        "authorName": "BradGPT on mobile",
-        "text": "The system that we have is unhackable.",
-        "createdAt": "2026-11-24T15:57:01.335Z"
-      },
-      {
-        "id": "comment_110ac1ad-4621-4c77-a1e5-e2fcfc609721",
-        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
-        "authorName": "AdminV2",
-        "text": "not really",
-        "createdAt": "2026-11-24T19:14:18.501Z"
-      },
-      {
-        "id": "comment_049db4cf-0a9e-46da-9427-780456df9490",
-        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
-        "authorName": "AdminV2",
-        "text": "but it is annoying to crack so I wont gg",
-        "createdAt": "2026-11-24T19:15:38.720Z"
-      },
-      {
-        "id": "comment_f82d434c-4661-4367-a900-cc9de960cf66",
-        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
-        "authorName": "OfficialEvilLucas",
-        "text": "thats what she said",
-        "createdAt": "2026-11-24T20:45:46.208Z"
-      },
-      {
-        "id": "comment_c957baf3-6590-4cd9-9dbd-0b6c59155a66",
-        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
-        "authorName": "AdminV2",
-        "text": "that's what he said",
-        "createdAt": "2026-11-24T23:51:17.641Z"
-      }
-    ]
-  },
-  {
     "id": "post_5c3c4f51-5bf6-49c4-acec-7ced78d22451",
     "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
     "authorName": "OfficialEvilLucas",

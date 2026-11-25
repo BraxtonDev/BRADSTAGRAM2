@@ -314,6 +314,13 @@
         "authorName": "AdminV2",
         "text": "Jules",
         "createdAt": "2026-11-24T00:04:42.038Z"
+      },
+      {
+        "id": "comment_66cac970-9011-48ba-9eef-342dc0b1fa36",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "why are y'all hating on lesluk his videos are so fire",
+        "createdAt": "2026-11-25T16:46:48.677Z"
       }
     ]
   },

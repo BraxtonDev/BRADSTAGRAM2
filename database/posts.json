@@ -230,6 +230,13 @@
         "authorName": "foot licker",
         "text": "...",
         "createdAt": "2026-11-25T21:16:11.738Z"
+      },
+      {
+        "id": "comment_a8f7a259-6f72-475d-b999-ae5a8356949e",
+        "authorId": "guest_28f09aca-e41d-4919-80c8-d8243b3c0ee5",
+        "authorName": "foot licker",
+        "text": ",",
+        "createdAt": "2026-11-25T21:16:22.743Z"
       }
     ],
     "keepUntil": "2027-01-03T22:46:45.817Z"

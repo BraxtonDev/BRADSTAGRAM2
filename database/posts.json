@@ -28,7 +28,9 @@
     "videoUrl": "",
     "createdAt": "2026-11-25T16:23:06.291Z",
     "expiresAt": "2026-12-10T16:23:06.291Z",
-    "likes": [],
+    "likes": [
+      "guest_28f09aca-e41d-4919-80c8-d8243b3c0ee5"
+    ],
     "comments": []
   },
   {

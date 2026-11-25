@@ -303,54 +303,6 @@
     ]
   },
   {
-    "id": "post_d40d4140-2b88-42ea-a4c5-2fd6e8b2dd79",
-    "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
-    "authorName": "AdminV2",
-    "caption": "done",
-    "imageUrl": "https://raw.githubusercontent.com/BraxtonDev/BRADSTAGRAM2/main/uploads/post_1795412311893_0r4udep.jpg",
-    "videoUrl": "",
-    "createdAt": "2026-11-23T05:38:33.501Z",
-    "expiresAt": "2026-12-08T05:38:33.501Z",
-    "likes": [],
-    "comments": [
-      {
-        "id": "comment_a9f12e58-34f4-4363-a291-d46cc784fb7e",
-        "authorId": "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
-        "authorName": "BradGPT on mobile",
-        "text": "Ohh he edited the code smart 👌",
-        "createdAt": "2026-11-23T14:32:31.550Z"
-      },
-      {
-        "id": "comment_7b0613f7-844d-45f9-b64d-fe6f78e041a8",
-        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
-        "authorName": "OwenAI",
-        "text": "@BradGPT on mobile no he just put it into Chromebook high contrast mode",
-        "createdAt": "2026-11-23T16:14:39.677Z"
-      },
-      {
-        "id": "comment_3650f2ee-5a0a-4a60-aa32-010487afa270",
-        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
-        "authorName": "OfficialEvilLucas",
-        "text": "yeah",
-        "createdAt": "2026-11-23T16:59:16.298Z"
-      },
-      {
-        "id": "comment_fbda8157-61f8-4cdf-a596-550565c235ac",
-        "authorId": "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
-        "authorName": "BradGPT on mobile",
-        "text": "Oh mb 🫩",
-        "createdAt": "2026-11-23T17:53:50.782Z"
-      },
-      {
-        "id": "comment_f3faa807-7eef-491c-8732-545911a2ca9d",
-        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
-        "authorName": "AdminV2",
-        "text": "no but that would be way easier than flipping every hex code lmao",
-        "createdAt": "2026-11-23T19:44:54.724Z"
-      }
-    ]
-  },
-  {
     "id": "post_c99e992a-fb91-4843-91f0-3c6be4acdabf",
     "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
     "authorName": "AdminV2",

@@ -9,7 +9,15 @@
     "createdAt": "2026-11-26T03:33:40.313Z",
     "expiresAt": "2026-12-11T03:33:40.313Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_39b01a07-f790-4ae1-8f38-a7daa7ce0270",
+        "authorId": "guest_1946e876-05df-48cd-b4c2-f349343cbf51",
+        "authorName": "AdminV2",
+        "text": "this is meant to be funny not rude, king brad please don't kill me",
+        "createdAt": "2026-11-26T03:35:46.667Z"
+      }
+    ]
   },
   {
     "id": "post_ff668622-04e2-40cf-ab28-bc29311eac91",

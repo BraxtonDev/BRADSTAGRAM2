@@ -9,7 +9,15 @@
     "createdAt": "2026-11-26T01:44:35.712Z",
     "expiresAt": "2026-12-11T01:44:35.712Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_ad46dbb8-566a-412f-a297-e25bc7627d20",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "This is the beginning of my mission to reposting all of my reels.",
+        "createdAt": "2026-11-26T01:45:23.460Z"
+      }
+    ]
   },
   {
     "id": "post_47798010-88dc-42e1-aeb3-966586aa6a64",

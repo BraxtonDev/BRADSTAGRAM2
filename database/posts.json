@@ -59,7 +59,9 @@
     "videoUrl": "",
     "createdAt": "2026-11-26T00:12:42.330Z",
     "expiresAt": "2026-12-11T00:12:42.330Z",
-    "likes": [],
+    "likes": [
+      "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
+    ],
     "comments": [
       {
         "id": "comment_9386d9ba-5883-429b-ba2a-dbf46ac42530",

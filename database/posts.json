@@ -239,6 +239,13 @@
         "authorName": "AdminV2",
         "text": "also that isn't what I did",
         "createdAt": "2026-11-26T00:27:57.786Z"
+      },
+      {
+        "id": "comment_05b3d9f2-957f-432a-a37e-b35f9fed049c",
+        "authorId": "guest_e27525d7-eb20-4af6-a739-6026547d50a4",
+        "authorName": "BradGPT on mobile",
+        "text": "The reason it works is because you can edit the repo. If you go to it you can delete and edit stuff",
+        "createdAt": "2026-11-26T15:03:34.272Z"
       }
     ]
   },

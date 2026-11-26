@@ -9,7 +9,15 @@
     "createdAt": "2026-11-26T14:10:58.325Z",
     "expiresAt": "2026-12-11T14:10:58.325Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_28e0a571-3d38-4619-b9d7-6002a2ef43c1",
+        "authorId": "guest_06b98e07-376a-4ae5-94c2-775cce82cb32",
+        "authorName": "Lesluk",
+        "text": "happy bradsgiving too",
+        "createdAt": "2026-11-26T15:10:54.175Z"
+      }
+    ]
   },
   {
     "id": "post_ff40de19-c657-4fcd-b207-7f756f25f124",

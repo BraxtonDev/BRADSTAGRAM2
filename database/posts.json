@@ -11,7 +11,15 @@
     "likes": [
       "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_45f63051-f339-421e-a69b-cd7376d376d1",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "How did you post it before Lesluk?????",
+        "createdAt": "2026-11-26T17:24:03.753Z"
+      }
+    ]
   },
   {
     "id": "post_b33c53a2-c233-42dd-955e-a4b840b2f7f3",

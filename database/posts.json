@@ -154,7 +154,15 @@
     "likes": [
       "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_0e0f96e7-5e2d-4a72-8bcb-2bbbe77e8757",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "why did you repost THIS of all things",
+        "createdAt": "2026-11-26T15:17:07.505Z"
+      }
+    ]
   },
   {
     "id": "post_39c2b749-9589-4d28-95f3-fe3d703e74bf",

@@ -118,6 +118,13 @@
         "authorName": "AdminV2",
         "text": "this is meant to be funny not rude, king brad please don't kill me",
         "createdAt": "2026-11-26T03:35:46.667Z"
+      },
+      {
+        "id": "comment_62dd12b7-19a5-4c57-8a0a-459429046f76",
+        "authorId": "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
+        "authorName": "OwenAI",
+        "text": "get banned",
+        "createdAt": "2026-11-26T15:14:06.671Z"
       }
     ]
   },

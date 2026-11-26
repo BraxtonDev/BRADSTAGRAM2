@@ -23,7 +23,15 @@
     "likes": [
       "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_a3378bbd-92f8-4c18-b181-907ce0196f48",
+        "authorId": "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c",
+        "authorName": "OfficialEvilLucas",
+        "text": "It's either called \"The Great Bradlamity\" or \"11/11\"",
+        "createdAt": "2026-11-26T17:22:04.471Z"
+      }
+    ]
   },
   {
     "id": "post_4822cc86-eb75-4ec7-aff2-8d48c529da8c",

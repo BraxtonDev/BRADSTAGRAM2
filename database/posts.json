@@ -9,7 +9,15 @@
     "createdAt": "2026-11-27T06:09:20.121Z",
     "expiresAt": "2026-12-12T06:09:20.121Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_2e65b006-dfca-45f0-99a3-9900f98fc718",
+        "authorId": "guest_449a4574-054a-4765-8abc-fa6e5783fada",
+        "authorName": "AdminV3",
+        "text": "umm",
+        "createdAt": "2026-11-27T06:14:03.354Z"
+      }
+    ]
   },
   {
     "id": "post_793aadcf-105a-48d5-b88a-7ea1e7e3b64b",

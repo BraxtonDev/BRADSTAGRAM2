@@ -390,6 +390,13 @@
         "authorName": "OwenAI",
         "text": "why did you repost THIS of all things",
         "createdAt": "2026-11-26T15:17:07.505Z"
+      },
+      {
+        "id": "comment_19440d29-0c69-4dbf-b6e0-f81e47e84a52",
+        "authorId": "guest_449a4574-054a-4765-8abc-fa6e5783fada",
+        "authorName": "AdminV3",
+        "text": "I can delete this",
+        "createdAt": "2026-11-27T07:02:37.128Z"
       }
     ]
   },

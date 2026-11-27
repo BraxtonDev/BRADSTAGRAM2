@@ -220,7 +220,15 @@
     "createdAt": "2026-11-26T15:15:47.066Z",
     "expiresAt": "2026-12-11T15:15:47.066Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_2414dd5e-cea2-4f4e-a99c-c842300101d2",
+        "authorId": "guest_449a4574-054a-4765-8abc-fa6e5783fada",
+        "authorName": "AdminV3",
+        "text": "😔",
+        "createdAt": "2026-11-27T18:52:01.072Z"
+      }
+    ]
   },
   {
     "id": "post_2c53638c-7678-4555-9023-af3310c04edd",

@@ -21,7 +21,15 @@
     "createdAt": "2026-11-27T18:32:54.110Z",
     "expiresAt": "2026-12-12T18:32:54.110Z",
     "likes": [],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_6fa99ec9-b434-4e7f-9520-ba463f3942b5",
+        "authorId": "guest_6017b0a1-3fa4-4f77-8f9f-25e1faf93cdb",
+        "authorName": "foot licker",
+        "text": "297-309 security leak",
+        "createdAt": "2026-11-27T18:35:01.185Z"
+      }
+    ]
   },
   {
     "id": "post_b81682b0-df67-4e87-a45f-a410368d5c6f",

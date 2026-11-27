@@ -23,6 +23,13 @@
         "authorName": "AdminV3",
         "text": "answer",
         "createdAt": "2026-11-27T06:14:13.907Z"
+      },
+      {
+        "id": "comment_53043e1d-f846-4fbd-b8cc-a9470a420163",
+        "authorId": "guest_6017b0a1-3fa4-4f77-8f9f-25e1faf93cdb",
+        "authorName": "foot licker",
+        "text": "hey I was studying the code to find wtf you did to erase everything and I found out how you can get admin",
+        "createdAt": "2026-11-27T06:16:27.726Z"
       }
     ]
   },

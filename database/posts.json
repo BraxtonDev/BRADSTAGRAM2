@@ -25,7 +25,15 @@
     "likes": [
       "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_9c083f52-93b0-452d-8a1e-3894bd5ee8f8",
+        "authorId": "guest_6017b0a1-3fa4-4f77-8f9f-25e1faf93cdb",
+        "authorName": "Guest",
+        "text": "yay",
+        "createdAt": "2026-11-27T05:58:09.510Z"
+      }
+    ]
   },
   {
     "id": "post_472e797e-1809-45bc-a451-e3562c22ae67",

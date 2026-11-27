@@ -83,6 +83,13 @@
         "authorName": "OwenAI",
         "text": "its not even him",
         "createdAt": "2026-11-26T23:25:46.628Z"
+      },
+      {
+        "id": "comment_6dedcfb4-2be1-41b2-b1df-968e818d4141",
+        "authorId": "guest_6017b0a1-3fa4-4f77-8f9f-25e1faf93cdb",
+        "authorName": "Guest",
+        "text": "lol",
+        "createdAt": "2026-11-27T05:59:31.896Z"
       }
     ]
   },

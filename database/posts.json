@@ -60,7 +60,15 @@
       "guest_0f994edc-143f-4a9e-ad26-6e4d896b7aa2",
       "guest_88b5ce42-c69e-41e8-88d4-70da4bf2600c"
     ],
-    "comments": []
+    "comments": [
+      {
+        "id": "comment_3b62414c-4d73-4315-99f6-6438c33dd5f6",
+        "authorId": "guest_449a4574-054a-4765-8abc-fa6e5783fada",
+        "authorName": "AdminV3",
+        "text": "IM SORRY",
+        "createdAt": "2026-11-27T06:06:42.255Z"
+      }
+    ]
   },
   {
     "id": "post_bb091090-b83f-4ad9-b92a-da741c9411e0",

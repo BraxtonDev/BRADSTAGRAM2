@@ -397,6 +397,13 @@
         "authorName": "AdminV3",
         "text": "I can delete this",
         "createdAt": "2026-11-27T07:02:37.128Z"
+      },
+      {
+        "id": "comment_efe9610e-f5df-42e0-942e-0f6b9d5c2218",
+        "authorId": "guest_449a4574-054a-4765-8abc-fa6e5783fada",
+        "authorName": "AdminV3",
+        "text": ":)",
+        "createdAt": "2026-11-27T07:02:50.044Z"
       }
     ]
   },
